@@ -1,0 +1,3097 @@
+data=2016:11:28:5:41:20
+216.58.211.14 num of packets = 5 , size 461 bytes
+216.58.211.2 num of packets = 2 , size 224 bytes
+213.158.172.241 num of packets = 11 , size 702 bytes
+192.168.1.253 num of packets = 2 , size 308 bytes
+172.217.19.110 num of packets = 13 , size 1260 bytes
+8.8.4.4 num of packets = 10 , size 1198 bytes
+Total Data = 43 packets , size = 4153 bytes
+data=2016:11:28:5:41:50
+216.58.211.14 num of packets = 4 , size 383 bytes
+192.168.1.253 num of packets = 8 , size 1240 bytes
+172.217.19.110 num of packets = 9 , size 846 bytes
+8.8.4.4 num of packets = 6 , size 782 bytes
+216.58.211.1 num of packets = 4 , size 312 bytes
+Total Data = 31 packets , size = 3563 bytes
+data=2016:11:28:5:42:20
+216.58.211.14 num of packets = 71 , size 78507 bytes
+216.58.211.2 num of packets = 9 , size 684 bytes
+192.168.1.253 num of packets = 11 , size 1658 bytes
+172.217.19.110 num of packets = 82 , size 84964 bytes
+8.8.4.4 num of packets = 23 , size 3115 bytes
+213.158.163.140 num of packets = 157 , size 121481 bytes
+Total Data = 353 packets , size = 290409 bytes
+data=2016:11:28:5:42:50
+216.58.211.14 num of packets = 27 , size 2301 bytes
+216.58.211.1 num of packets = 25 , size 5777 bytes
+216.58.211.34 num of packets = 21 , size 2497 bytes
+192.168.1.253 num of packets = 8 , size 1240 bytes
+172.217.19.110 num of packets = 49 , size 19219 bytes
+74.125.3.119 num of packets = 26 , size 11822 bytes
+213.158.163.140 num of packets = 750 , size 1021157 bytes
+8.8.4.4 num of packets = 26 , size 3376 bytes
+Total Data = 932 packets , size = 1067389 bytes
+data=2016:11:28:5:43:20
+213.158.163.140 num of packets = 594 , size 866383 bytes
+216.58.211.14 num of packets = 4 , size 384 bytes
+192.168.1.253 num of packets = 12 , size 1728 bytes
+172.217.19.110 num of packets = 15 , size 4660 bytes
+8.8.4.4 num of packets = 10 , size 1377 bytes
+Total Data = 635 packets , size = 874532 bytes
+data=2016:11:28:5:43:50
+216.58.211.1 num of packets = 3 , size 290 bytes
+216.58.211.34 num of packets = 4 , size 356 bytes
+192.168.1.253 num of packets = 26 , size 3612 bytes
+172.217.19.110 num of packets = 4 , size 384 bytes
+8.8.4.4 num of packets = 2 , size 260 bytes
+213.158.163.140 num of packets = 956 , size 1394676 bytes
+Total Data = 995 packets , size = 1399578 bytes
+data=2016:11:28:5:44:20
+213.158.163.140 num of packets = 1156 , size 1687996 bytes
+216.58.211.14 num of packets = 2 , size 178 bytes
+192.168.1.253 num of packets = 64 , size 8424 bytes
+172.217.19.110 num of packets = 8 , size 767 bytes
+8.8.4.4 num of packets = 6 , size 871 bytes
+Total Data = 1236 packets , size = 1698236 bytes
+data=2016:11:28:5:44:50
+216.58.211.1 num of packets = 2 , size 224 bytes
+216.58.211.34 num of packets = 2 , size 224 bytes
+192.168.1.253 num of packets = 480 , size 76560 bytes
+172.217.19.110 num of packets = 8 , size 767 bytes
+8.8.4.4 num of packets = 4 , size 520 bytes
+213.158.163.140 num of packets = 968 , size 1414709 bytes
+Total Data = 1464 packets , size = 1493004 bytes
+data=2016:11:28:5:45:21
+data=2016:12:11:15:37:30
+8.8.8.8 num of packets = 4 , size 508 bytes
+31.13.93.36 num of packets = 6 , size 1107 bytes
+Total Data = 10 packets , size = 1615 bytes
+data=2016:12:11:15:38:0
+31.13.92.10 num of packets = 5 , size 587 bytes
+Total Data = 5 packets , size = 587 bytes
+data=2016:12:11:15:38:30
+31.13.92.10 num of packets = 3 , size 417 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 688 bytes
+Total Data = 9 packets , size = 1359 bytes
+data=2016:12:11:15:39:0
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 2 packets , size = 260 bytes
+data=2016:12:11:15:39:30
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 685 bytes
+Total Data = 10 packets , size = 1460 bytes
+data=2016:12:11:15:40:0
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:40:30
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 4 , size 514 bytes
+31.13.93.36 num of packets = 3 , size 580 bytes
+Total Data = 11 packets , size = 1615 bytes
+data=2016:12:11:15:41:0
+31.13.92.10 num of packets = 4 , size 521 bytes
+Total Data = 4 packets , size = 521 bytes
+data=2016:12:11:15:41:30
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 685 bytes
+Total Data = 6 packets , size = 939 bytes
+data=2016:12:11:15:42:0
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 781 bytes
+data=2016:12:11:15:42:30
+8.8.8.8 num of packets = 4 , size 508 bytes
+31.13.93.36 num of packets = 8 , size 1235 bytes
+Total Data = 12 packets , size = 1743 bytes
+data=2016:12:11:15:43:1
+31.13.92.10 num of packets = 4 , size 521 bytes
+Total Data = 4 packets , size = 521 bytes
+data=2016:12:11:15:43:31
+31.13.92.10 num of packets = 1 , size 138 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 713 bytes
+Total Data = 8 packets , size = 1105 bytes
+data=2016:12:11:15:44:1
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:44:31
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 715 bytes
+Total Data = 11 packets , size = 1490 bytes
+data=2016:12:11:15:45:1
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:45:31
+31.13.92.10 num of packets = 3 , size 417 bytes
+8.8.8.8 num of packets = 4 , size 514 bytes
+31.13.93.36 num of packets = 6 , size 1318 bytes
+Total Data = 13 packets , size = 2249 bytes
+data=2016:12:11:15:46:1
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:46:31
+31.13.92.10 num of packets = 5 , size 741 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 6 , size 1249 bytes
+Total Data = 13 packets , size = 2244 bytes
+data=2016:12:11:15:47:1
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 781 bytes
+data=2016:12:11:15:47:31
+8.8.8.8 num of packets = 4 , size 508 bytes
+31.13.93.36 num of packets = 8 , size 1237 bytes
+Total Data = 12 packets , size = 1745 bytes
+data=2016:12:11:15:48:1
+31.13.92.10 num of packets = 5 , size 616 bytes
+Total Data = 5 packets , size = 616 bytes
+data=2016:12:11:15:48:31
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 648 bytes
+Total Data = 6 packets , size = 902 bytes
+data=2016:12:11:15:49:1
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 781 bytes
+data=2016:12:11:15:49:31
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 713 bytes
+Total Data = 11 packets , size = 1488 bytes
+data=2016:12:11:15:50:1
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:50:32
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 4 , size 514 bytes
+31.13.93.36 num of packets = 4 , size 648 bytes
+Total Data = 12 packets , size = 1683 bytes
+data=2016:12:11:15:51:2
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:51:32
+31.13.92.10 num of packets = 3 , size 417 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 752 bytes
+Total Data = 10 packets , size = 1423 bytes
+data=2016:12:11:15:52:2
+31.13.92.10 num of packets = 6 , size 746 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 8 packets , size = 1006 bytes
+data=2016:12:11:15:52:32
+8.8.8.8 num of packets = 4 , size 508 bytes
+31.13.93.36 num of packets = 7 , size 1210 bytes
+Total Data = 11 packets , size = 1718 bytes
+data=2016:12:11:15:53:2
+31.13.92.10 num of packets = 4 , size 521 bytes
+Total Data = 4 packets , size = 521 bytes
+data=2016:12:11:15:53:32
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 686 bytes
+Total Data = 6 packets , size = 940 bytes
+data=2016:12:11:15:54:2
+31.13.92.10 num of packets = 6 , size 1260 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 8 packets , size = 1520 bytes
+data=2016:12:11:15:54:32
+31.13.92.10 num of packets = 5 , size 612 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 685 bytes
+Total Data = 11 packets , size = 1551 bytes
+data=2016:12:11:15:55:2
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:55:32
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 4 , size 514 bytes
+31.13.93.36 num of packets = 3 , size 1082 bytes
+Total Data = 11 packets , size = 2117 bytes
+data=2016:12:11:15:56:2
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:15:56:32
+31.13.92.10 num of packets = 4 , size 512 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 1235 bytes
+Total Data = 11 packets , size = 2001 bytes
+data=2016:12:11:15:57:2
+31.13.92.10 num of packets = 4 , size 512 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 772 bytes
+data=2016:12:11:15:57:32
+31.13.92.10 num of packets = 1 , size 281 bytes
+54.148.163.250 num of packets = 8 , size 4016 bytes
+8.8.8.8 num of packets = 7 , size 1215 bytes
+31.13.93.36 num of packets = 8 , size 1533 bytes
+Total Data = 24 packets , size = 7045 bytes
+data=2016:12:11:15:58:3
+31.13.92.10 num of packets = 3 , size 413 bytes
+54.148.163.250 num of packets = 3 , size 198 bytes
+Total Data = 6 packets , size = 611 bytes
+data=2016:12:11:15:58:33
+54.148.163.250 num of packets = 3 , size 229 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 6 , size 817 bytes
+Total Data = 11 packets , size = 1300 bytes
+data=2016:12:11:15:59:3
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 781 bytes
+data=2016:12:11:15:59:33
+31.13.92.10 num of packets = 5 , size 692 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 712 bytes
+Total Data = 12 packets , size = 1658 bytes
+data=2016:12:11:16:0:3
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:0:33
+31.13.92.10 num of packets = 5 , size 616 bytes
+8.8.8.8 num of packets = 4 , size 514 bytes
+31.13.93.36 num of packets = 5 , size 749 bytes
+Total Data = 14 packets , size = 1879 bytes
+data=2016:12:11:16:1:3
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:1:33
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 3 , size 582 bytes
+Total Data = 9 packets , size = 1357 bytes
+data=2016:12:11:16:2:3
+31.13.92.10 num of packets = 4 , size 512 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 772 bytes
+data=2016:12:11:16:2:33
+8.8.8.8 num of packets = 4 , size 508 bytes
+31.13.93.36 num of packets = 6 , size 1069 bytes
+Total Data = 10 packets , size = 1577 bytes
+data=2016:12:11:16:3:3
+31.13.92.10 num of packets = 4 , size 521 bytes
+Total Data = 4 packets , size = 521 bytes
+data=2016:12:11:16:3:33
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 1008 bytes
+Total Data = 7 packets , size = 1262 bytes
+data=2016:12:11:16:4:3
+31.13.92.10 num of packets = 4 , size 512 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 772 bytes
+data=2016:12:11:16:4:33
+31.13.92.10 num of packets = 3 , size 417 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 6 , size 1246 bytes
+Total Data = 11 packets , size = 1917 bytes
+data=2016:12:11:16:5:3
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:5:33
+31.13.92.10 num of packets = 5 , size 642 bytes
+8.8.8.8 num of packets = 4 , size 514 bytes
+31.13.93.36 num of packets = 6 , size 1714 bytes
+Total Data = 15 packets , size = 2870 bytes
+data=2016:12:11:16:6:3
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:6:33
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 770 bytes
+Total Data = 11 packets , size = 1545 bytes
+data=2016:12:11:16:7:3
+31.13.92.10 num of packets = 5 , size 616 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 7 packets , size = 876 bytes
+data=2016:12:11:16:7:33
+8.8.8.8 num of packets = 4 , size 508 bytes
+31.13.93.36 num of packets = 7 , size 1133 bytes
+Total Data = 11 packets , size = 1641 bytes
+data=2016:12:11:16:8:3
+31.13.92.10 num of packets = 4 , size 521 bytes
+Total Data = 4 packets , size = 521 bytes
+data=2016:12:11:16:8:33
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 715 bytes
+Total Data = 7 packets , size = 969 bytes
+data=2016:12:11:16:9:3
+31.13.92.10 num of packets = 5 , size 616 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 7 packets , size = 876 bytes
+data=2016:12:11:16:9:33
+31.13.92.10 num of packets = 3 , size 417 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 5 , size 713 bytes
+Total Data = 10 packets , size = 1384 bytes
+data=2016:12:11:16:10:3
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:10:33
+31.13.92.10 num of packets = 5 , size 616 bytes
+8.8.8.8 num of packets = 4 , size 514 bytes
+31.13.93.36 num of packets = 5 , size 715 bytes
+Total Data = 14 packets , size = 1845 bytes
+data=2016:12:11:16:11:3
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:11:33
+31.13.92.10 num of packets = 3 , size 417 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 647 bytes
+Total Data = 9 packets , size = 1318 bytes
+data=2016:12:11:16:12:3
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 781 bytes
+data=2016:12:11:16:12:33
+8.8.8.8 num of packets = 4 , size 508 bytes
+31.13.93.36 num of packets = 6 , size 1072 bytes
+Total Data = 10 packets , size = 1580 bytes
+data=2016:12:11:16:13:3
+31.13.92.10 num of packets = 3 , size 417 bytes
+Total Data = 3 packets , size = 417 bytes
+data=2016:12:11:16:13:33
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 3 , size 582 bytes
+Total Data = 5 packets , size = 836 bytes
+data=2016:12:11:16:14:3
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 260 bytes
+Total Data = 6 packets , size = 781 bytes
+data=2016:12:11:16:14:33
+31.13.92.10 num of packets = 4 , size 521 bytes
+8.8.8.8 num of packets = 2 , size 254 bytes
+31.13.93.36 num of packets = 4 , size 685 bytes
+Total Data = 10 packets , size = 1460 bytes
+data=2016:12:11:16:15:3
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:15:34
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 9 , size 4711 bytes
+8.8.8.8 num of packets = 7 , size 943 bytes
+31.13.93.36 num of packets = 6 , size 4156 bytes
+Total Data = 26 packets , size = 10331 bytes
+data=2016:12:11:16:16:4
+52.32.183.205 num of packets = 15 , size 5698 bytes
+8.8.8.8 num of packets = 12 , size 1782 bytes
+Total Data = 27 packets , size = 7480 bytes
+data=2016:12:11:16:16:34
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 11 , size 4601 bytes
+8.8.8.8 num of packets = 12 , size 1739 bytes
+31.13.93.36 num of packets = 6 , size 831 bytes
+Total Data = 33 packets , size = 7692 bytes
+data=2016:12:11:16:17:4
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 12 , size 5389 bytes
+8.8.8.8 num of packets = 14 , size 2042 bytes
+Total Data = 30 packets , size = 7952 bytes
+data=2016:12:11:16:17:34
+52.32.183.205 num of packets = 17 , size 5917 bytes
+8.8.8.8 num of packets = 16 , size 2290 bytes
+31.13.93.36 num of packets = 9 , size 1340 bytes
+Total Data = 42 packets , size = 9547 bytes
+data=2016:12:11:16:18:4
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 13 packets , size = 2933 bytes
+data=2016:12:11:16:18:34
+52.32.183.205 num of packets = 4 , size 1034 bytes
+8.8.8.8 num of packets = 5 , size 683 bytes
+31.13.93.36 num of packets = 4 , size 685 bytes
+Total Data = 13 packets , size = 2402 bytes
+data=2016:12:11:16:19:4
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 5 , size 722 bytes
+Total Data = 16 packets , size = 3275 bytes
+data=2016:12:11:16:19:34
+31.13.92.10 num of packets = 8 , size 963 bytes
+52.32.183.205 num of packets = 9 , size 2825 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 7 , size 892 bytes
+Total Data = 30 packets , size = 5528 bytes
+data=2016:12:11:16:20:4
+52.32.183.205 num of packets = 9 , size 2933 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 13 packets , size = 3527 bytes
+data=2016:12:11:16:20:34
+31.13.92.10 num of packets = 5 , size 578 bytes
+52.32.183.205 num of packets = 9 , size 2151 bytes
+8.8.8.8 num of packets = 8 , size 1108 bytes
+31.13.93.36 num of packets = 6 , size 821 bytes
+Total Data = 28 packets , size = 4658 bytes
+data=2016:12:11:16:21:4
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2630 bytes
+data=2016:12:11:16:21:34
+31.13.92.10 num of packets = 4 , size 512 bytes
+52.32.183.205 num of packets = 6 , size 1941 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 5 , size 714 bytes
+Total Data = 21 packets , size = 4015 bytes
+data=2016:12:11:16:22:4
+31.13.92.10 num of packets = 5 , size 650 bytes
+52.32.183.205 num of packets = 11 , size 2358 bytes
+8.8.8.8 num of packets = 6 , size 854 bytes
+Total Data = 22 packets , size = 3862 bytes
+data=2016:12:11:16:22:34
+52.32.183.205 num of packets = 8 , size 2107 bytes
+8.8.8.8 num of packets = 8 , size 1102 bytes
+31.13.93.36 num of packets = 8 , size 1239 bytes
+Total Data = 24 packets , size = 4448 bytes
+data=2016:12:11:16:23:4
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2838 bytes
+data=2016:12:11:16:23:34
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 3 , size 583 bytes
+Total Data = 14 packets , size = 3258 bytes
+data=2016:12:11:16:24:5
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 6 , size 854 bytes
+Total Data = 16 packets , size = 3297 bytes
+data=2016:12:11:16:24:35
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 4 , size 686 bytes
+Total Data = 20 packets , size = 3987 bytes
+data=2016:12:11:16:25:5
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:16:25:35
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 5 , size 1822 bytes
+8.8.8.8 num of packets = 8 , size 1108 bytes
+31.13.93.36 num of packets = 5 , size 2224 bytes
+Total Data = 21 packets , size = 5571 bytes
+data=2016:12:11:16:26:5
+52.32.183.205 num of packets = 5 , size 1822 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2416 bytes
+data=2016:12:11:16:26:35
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 5 , size 730 bytes
+Total Data = 20 packets , size = 3917 bytes
+data=2016:12:11:16:27:5
+31.13.92.10 num of packets = 5 , size 616 bytes
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.8.8 num of packets = 6 , size 854 bytes
+Total Data = 18 packets , size = 3506 bytes
+data=2016:12:11:16:27:35
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.8.8 num of packets = 8 , size 1102 bytes
+31.13.93.36 num of packets = 10 , size 1409 bytes
+Total Data = 23 packets , size = 4338 bytes
+data=2016:12:11:16:28:5
+31.13.92.10 num of packets = 9 , size 1102 bytes
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 20 packets , size = 3732 bytes
+data=2016:12:11:16:28:35
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 5 , size 714 bytes
+Total Data = 17 packets , size = 3484 bytes
+data=2016:12:11:16:29:5
+31.13.92.10 num of packets = 5 , size 587 bytes
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.8.8 num of packets = 6 , size 854 bytes
+Total Data = 16 packets , size = 3268 bytes
+data=2016:12:11:16:29:35
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 8 , size 2182 bytes
+8.8.8.8 num of packets = 4 , size 551 bytes
+31.13.93.36 num of packets = 6 , size 817 bytes
+Total Data = 21 packets , size = 3967 bytes
+data=2016:12:11:16:30:5
+52.32.183.205 num of packets = 7 , size 1918 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2512 bytes
+data=2016:12:11:16:30:35
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 8 , size 1108 bytes
+31.13.93.36 num of packets = 12 , size 1354 bytes
+Total Data = 29 packets , size = 4801 bytes
+data=2016:12:11:16:31:5
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2516 bytes
+data=2016:12:11:16:31:35
+31.13.92.10 num of packets = 5 , size 616 bytes
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 6 , size 1715 bytes
+Total Data = 23 packets , size = 5101 bytes
+data=2016:12:11:16:32:5
+31.13.92.10 num of packets = 1 , size 138 bytes
+52.32.183.205 num of packets = 4 , size 1756 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2488 bytes
+data=2016:12:11:16:32:35
+31.13.92.10 num of packets = 2 , size 279 bytes
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 10 , size 1362 bytes
+31.13.93.36 num of packets = 10 , size 1372 bytes
+Total Data = 30 packets , size = 5149 bytes
+data=2016:12:11:16:33:5
+31.13.92.10 num of packets = 5 , size 621 bytes
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 17 packets , size = 3351 bytes
+data=2016:12:11:16:33:35
+52.32.183.205 num of packets = 6 , size 1922 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 4 , size 649 bytes
+Total Data = 16 packets , size = 3419 bytes
+data=2016:12:11:16:34:5
+31.13.92.10 num of packets = 4 , size 608 bytes
+52.32.183.205 num of packets = 5 , size 1822 bytes
+8.8.8.8 num of packets = 6 , size 854 bytes
+Total Data = 15 packets , size = 3284 bytes
+data=2016:12:11:16:34:35
+52.32.183.205 num of packets = 4 , size 1708 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 3 , size 578 bytes
+Total Data = 13 packets , size = 3134 bytes
+data=2016:12:11:16:35:5
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 15 packets , size = 3147 bytes
+data=2016:12:11:16:35:35
+31.13.92.10 num of packets = 4 , size 512 bytes
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 8 , size 1108 bytes
+31.13.93.36 num of packets = 3 , size 596 bytes
+Total Data = 23 packets , size = 4352 bytes
+data=2016:12:11:16:36:5
+52.32.183.205 num of packets = 13 , size 6053 bytes
+8.8.8.8 num of packets = 12 , size 1782 bytes
+Total Data = 25 packets , size = 7835 bytes
+data=2016:12:11:16:36:36
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 16 , size 5769 bytes
+8.8.8.8 num of packets = 14 , size 2036 bytes
+31.13.93.36 num of packets = 4 , size 702 bytes
+Total Data = 38 packets , size = 9028 bytes
+data=2016:12:11:16:37:6
+52.32.183.205 num of packets = 13 , size 5378 bytes
+8.8.8.8 num of packets = 10 , size 1485 bytes
+Total Data = 23 packets , size = 6863 bytes
+data=2016:12:11:16:37:36
+31.13.92.10 num of packets = 5 , size 650 bytes
+52.32.183.205 num of packets = 16 , size 5764 bytes
+8.8.8.8 num of packets = 18 , size 2550 bytes
+31.13.93.36 num of packets = 4 , size 938 bytes
+Total Data = 43 packets , size = 9902 bytes
+data=2016:12:11:16:38:6
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 8 , size 2877 bytes
+8.8.8.8 num of packets = 6 , size 891 bytes
+Total Data = 18 packets , size = 4289 bytes
+data=2016:12:11:16:38:36
+52.32.183.205 num of packets = 5 , size 1822 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 6 , size 866 bytes
+Total Data = 17 packets , size = 3536 bytes
+data=2016:12:11:16:39:6
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 6 , size 1936 bytes
+8.8.8.8 num of packets = 6 , size 854 bytes
+Total Data = 16 packets , size = 3311 bytes
+data=2016:12:11:16:39:36
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.8.8 num of packets = 6 , size 848 bytes
+31.13.93.36 num of packets = 5 , size 752 bytes
+Total Data = 18 packets , size = 3636 bytes
+data=2016:12:11:16:40:6
+31.13.92.10 num of packets = 4 , size 521 bytes
+52.32.183.205 num of packets = 5 , size 1822 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 13 packets , size = 2937 bytes
+data=2016:12:11:16:40:36
+31.13.92.10 num of packets = 3 , size 417 bytes
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 8 , size 1108 bytes
+31.13.93.36 num of packets = 3 , size 582 bytes
+Total Data = 22 packets , size = 4243 bytes
+data=2016:12:11:16:41:6
+52.32.183.205 num of packets = 7 , size 2041 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2635 bytes
+data=2016:12:11:16:41:36
+31.13.92.10 num of packets = 4 , size 512 bytes
+52.32.183.205 num of packets = 5 , size 1134 bytes
+8.8.8.8 num of packets = 4 , size 551 bytes
+31.13.93.36 num of packets = 4 , size 1586 bytes
+Total Data = 17 packets , size = 3783 bytes
+data=2016:12:11:16:42:6
+151.101.129.69 num of packets = 2 , size 148 bytes
+31.13.92.10 num of packets = 8 , size 863 bytes
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.8.8 num of packets = 26 , size 4156 bytes
+31.13.93.36 num of packets = 44 , size 41783 bytes
+Total Data = 85 packets , size = 48777 bytes
+data=2016:12:11:16:42:36
+216.58.204.238 num of packets = 10 , size 1560 bytes
+31.13.92.10 num of packets = 41 , size 7297 bytes
+179.60.192.7 num of packets = 57 , size 28772 bytes
+31.13.93.36 num of packets = 308 , size 236774 bytes
+184.51.148.11 num of packets = 33 , size 21150 bytes
+151.101.129.69 num of packets = 2 , size 132 bytes
+52.32.183.205 num of packets = 5 , size 1827 bytes
+79.140.94.210 num of packets = 11 , size 7050 bytes
+184.51.148.58 num of packets = 103 , size 59649 bytes
+195.22.200.34 num of packets = 41 , size 18275 bytes
+79.140.94.201 num of packets = 73 , size 49848 bytes
+8.8.8.8 num of packets = 129 , size 21512 bytes
+79.140.94.203 num of packets = 33 , size 19377 bytes
+79.140.94.208 num of packets = 25 , size 15469 bytes
+Total Data = 871 packets , size = 488692 bytes
+data=2016:12:11:16:43:6
+52.32.183.205 num of packets = 8 , size 2136 bytes
+79.140.94.208 num of packets = 6 , size 396 bytes
+184.51.148.58 num of packets = 15 , size 990 bytes
+195.22.200.34 num of packets = 6 , size 396 bytes
+79.140.94.201 num of packets = 12 , size 792 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+79.140.94.203 num of packets = 6 , size 396 bytes
+Total Data = 57 packets , size = 5700 bytes
+data=2016:12:11:16:43:36
+216.58.204.238 num of packets = 1 , size 112 bytes
+179.60.192.7 num of packets = 1 , size 112 bytes
+31.13.93.36 num of packets = 2 , size 178 bytes
+31.13.92.10 num of packets = 2 , size 178 bytes
+52.32.183.205 num of packets = 8 , size 2136 bytes
+79.140.94.208 num of packets = 6 , size 396 bytes
+184.51.148.58 num of packets = 15 , size 990 bytes
+195.22.200.34 num of packets = 6 , size 396 bytes
+79.140.94.201 num of packets = 20 , size 1444 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+79.140.94.203 num of packets = 9 , size 625 bytes
+Total Data = 74 packets , size = 7161 bytes
+data=2016:12:11:16:44:6
+52.32.183.205 num of packets = 8 , size 2136 bytes
+79.140.94.208 num of packets = 6 , size 458 bytes
+184.51.148.58 num of packets = 18 , size 1219 bytes
+195.22.200.34 num of packets = 9 , size 625 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+79.140.94.203 num of packets = 5 , size 361 bytes
+Total Data = 50 packets , size = 5393 bytes
+data=2016:12:11:16:44:36
+216.58.204.238 num of packets = 1 , size 112 bytes
+179.60.192.7 num of packets = 1 , size 112 bytes
+31.13.93.36 num of packets = 1 , size 112 bytes
+31.13.92.10 num of packets = 1 , size 112 bytes
+52.32.183.205 num of packets = 6 , size 1922 bytes
+184.51.148.58 num of packets = 14 , size 1048 bytes
+195.22.200.34 num of packets = 4 , size 295 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 32 packets , size = 4307 bytes
+data=2016:12:11:16:45:6
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2421 bytes
+data=2016:12:11:16:45:36
+179.60.192.7 num of packets = 6 , size 495 bytes
+31.13.93.36 num of packets = 6 , size 495 bytes
+31.13.92.10 num of packets = 5 , size 441 bytes
+52.32.183.205 num of packets = 7 , size 2070 bytes
+216.58.204.238 num of packets = 5 , size 354 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 33 packets , size = 4449 bytes
+data=2016:12:11:16:46:6
+52.32.183.205 num of packets = 7 , size 2041 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2635 bytes
+data=2016:12:11:16:46:36
+52.32.183.205 num of packets = 7 , size 2041 bytes
+216.58.204.238 num of packets = 7 , size 744 bytes
+8.8.8.8 num of packets = 7 , size 960 bytes
+Total Data = 21 packets , size = 3745 bytes
+data=2016:12:11:16:47:6
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:16:47:36
+52.32.183.205 num of packets = 8 , size 2136 bytes
+216.58.204.238 num of packets = 1 , size 78 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 13 packets , size = 2808 bytes
+data=2016:12:11:16:48:6
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:16:48:36
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:16:49:6
+52.32.183.205 num of packets = 4 , size 1708 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 8 packets , size = 2302 bytes
+data=2016:12:11:16:49:36
+52.32.183.205 num of packets = 4 , size 1708 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 8 packets , size = 2302 bytes
+data=2016:12:11:16:50:6
+52.32.183.205 num of packets = 9 , size 3006 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 13 packets , size = 3600 bytes
+data=2016:12:11:16:50:37
+52.32.183.205 num of packets = 8 , size 2136 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:16:51:7
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2421 bytes
+data=2016:12:11:16:51:37
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2630 bytes
+data=2016:12:11:16:52:7
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.8.8 num of packets = 5 , size 735 bytes
+151.101.1.69 num of packets = 1 , size 74 bytes
+Total Data = 13 packets , size = 2845 bytes
+data=2016:12:11:16:52:37
+192.0.73.2 num of packets = 10 , size 4622 bytes
+79.140.95.145 num of packets = 6 , size 660 bytes
+216.58.210.228 num of packets = 144 , size 20713 bytes
+216.58.210.195 num of packets = 87 , size 94274 bytes
+172.217.23.110 num of packets = 46 , size 5563 bytes
+172.217.23.67 num of packets = 7 , size 758 bytes
+216.58.213.161 num of packets = 10 , size 5002 bytes
+216.58.204.234 num of packets = 10 , size 4669 bytes
+151.101.1.69 num of packets = 22 , size 22961 bytes
+172.217.16.3 num of packets = 13 , size 5400 bytes
+52.32.183.205 num of packets = 8 , size 2788 bytes
+190.93.245.83 num of packets = 46 , size 50845 bytes
+151.101.193.69 num of packets = 30 , size 12771 bytes
+95.101.100.69 num of packets = 14 , size 1299 bytes
+54.243.224.230 num of packets = 20 , size 7126 bytes
+104.16.111.18 num of packets = 8 , size 4231 bytes
+79.140.95.129 num of packets = 2 , size 140 bytes
+8.8.8.8 num of packets = 58 , size 8820 bytes
+95.172.94.57 num of packets = 6 , size 635 bytes
+Total Data = 547 packets , size = 253277 bytes
+data=2016:12:11:16:53:7
+79.140.95.145 num of packets = 3 , size 198 bytes
+151.101.193.69 num of packets = 2 , size 132 bytes
+190.93.245.83 num of packets = 2 , size 108 bytes
+52.32.183.205 num of packets = 10 , size 2198 bytes
+54.243.224.230 num of packets = 5 , size 330 bytes
+95.101.100.69 num of packets = 6 , size 592 bytes
+151.101.1.69 num of packets = 3 , size 198 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 35 packets , size = 4350 bytes
+data=2016:12:11:16:53:37
+192.0.73.2 num of packets = 2 , size 154 bytes
+79.140.95.145 num of packets = 3 , size 198 bytes
+216.58.210.228 num of packets = 2 , size 178 bytes
+216.58.210.195 num of packets = 2 , size 178 bytes
+172.217.23.110 num of packets = 1 , size 112 bytes
+151.101.193.69 num of packets = 3 , size 198 bytes
+216.58.213.161 num of packets = 2 , size 178 bytes
+216.58.204.234 num of packets = 2 , size 178 bytes
+151.101.1.69 num of packets = 3 , size 198 bytes
+172.217.16.3 num of packets = 2 , size 178 bytes
+52.32.183.205 num of packets = 8 , size 2107 bytes
+104.16.111.18 num of packets = 1 , size 66 bytes
+172.217.23.67 num of packets = 2 , size 178 bytes
+54.243.224.230 num of packets = 8 , size 528 bytes
+190.93.245.83 num of packets = 4 , size 257 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 49 packets , size = 5480 bytes
+data=2016:12:11:16:54:7
+151.101.193.69 num of packets = 3 , size 198 bytes
+79.140.95.145 num of packets = 4 , size 264 bytes
+52.32.183.205 num of packets = 5 , size 1117 bytes
+8.8.8.8 num of packets = 2 , size 297 bytes
+151.101.1.69 num of packets = 3 , size 198 bytes
+Total Data = 17 packets , size = 2074 bytes
+data=2016:12:11:16:54:37
+192.0.73.2 num of packets = 1 , size 100 bytes
+216.58.210.228 num of packets = 1 , size 112 bytes
+216.58.210.195 num of packets = 1 , size 112 bytes
+172.217.23.110 num of packets = 1 , size 112 bytes
+151.101.193.69 num of packets = 3 , size 198 bytes
+216.58.213.161 num of packets = 1 , size 112 bytes
+216.58.204.234 num of packets = 1 , size 112 bytes
+151.101.1.69 num of packets = 2 , size 132 bytes
+172.217.16.3 num of packets = 1 , size 112 bytes
+52.32.183.205 num of packets = 9 , size 2202 bytes
+172.217.23.67 num of packets = 1 , size 112 bytes
+190.93.245.83 num of packets = 1 , size 95 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 27 packets , size = 4105 bytes
+data=2016:12:11:16:55:7
+52.32.183.205 num of packets = 5 , size 1786 bytes
+8.8.8.8 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2380 bytes
+data=2016:12:11:16:55:37
+192.0.73.2 num of packets = 13 , size 854 bytes
+216.58.210.228 num of packets = 8 , size 552 bytes
+216.58.210.195 num of packets = 5 , size 354 bytes
+172.217.23.110 num of packets = 9 , size 630 bytes
+172.217.23.67 num of packets = 8 , size 528 bytes
+216.58.213.161 num of packets = 8 , size 528 bytes
+190.93.245.83 num of packets = 11 , size 724 bytes
+172.217.16.3 num of packets = 8 , size 528 bytes
+52.32.183.205 num of packets = 5 , size 1134 bytes
+216.58.204.234 num of packets = 9 , size 630 bytes
+104.16.111.18 num of packets = 5 , size 423 bytes
+8.8.8.8 num of packets = 2 , size 297 bytes
+Total Data = 91 packets , size = 7182 bytes
+data=2016:12:11:16:56:7
+192.0.73.2 num of packets = 4 , size 216 bytes
+52.32.183.205 num of packets = 5 , size 1839 bytes
+8.8.8.8 num of packets = 9 , size 1404 bytes
+190.93.245.83 num of packets = 4 , size 216 bytes
+Total Data = 22 packets , size = 3675 bytes
+data=2016:12:11:16:56:37
+52.32.183.205 num of packets = 4 , size 264 bytes
+Total Data = 4 packets , size = 264 bytes
+data=2016:12:11:16:57:7
+52.32.183.205 num of packets = 7 , size 524 bytes
+Total Data = 7 packets , size = 524 bytes
+data=2016:12:11:16:57:37
+52.32.183.205 num of packets = 1 , size 66 bytes
+8.8.8.8 num of packets = 3 , size 707 bytes
+52.24.153.184 num of packets = 30 , size 7353 bytes
+Total Data = 34 packets , size = 8126 bytes
+data=2016:12:11:16:58:7
+52.24.153.184 num of packets = 3 , size 198 bytes
+Total Data = 3 packets , size = 198 bytes
+data=2016:12:11:16:58:37
+52.24.153.184 num of packets = 4 , size 295 bytes
+Total Data = 4 packets , size = 295 bytes
+data=2016:12:11:16:59:7
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:16:59:37
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:0:7
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:0:37
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:1:8
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:1:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:2:8
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:2:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:3:8
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:3:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:4:8
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:4:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:5:8
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:5:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:6:8
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:6:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:7:8
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:7:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:8:8
+179.60.192.7 num of packets = 2 , size 174 bytes
+Total Data = 2 packets , size = 174 bytes
+data=2016:12:11:17:8:38
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:9:8
+179.60.192.15 num of packets = 1 , size 108 bytes
+179.60.192.7 num of packets = 1 , size 108 bytes
+Total Data = 2 packets , size = 216 bytes
+data=2016:12:11:17:9:38
+17.248.147.82 num of packets = 2 , size 132 bytes
+31.13.88.4 num of packets = 2 , size 174 bytes
+Total Data = 4 packets , size = 306 bytes
+data=2016:12:11:17:10:8
+213.158.175.66 num of packets = 1 , size 97 bytes
+Total Data = 1 packets , size = 97 bytes
+data=2016:12:11:17:10:38
+17.248.147.82 num of packets = 2 , size 108 bytes
+17.188.131.138 num of packets = 1 , size 791 bytes
+31.13.88.3 num of packets = 7 , size 513 bytes
+31.13.88.4 num of packets = 14 , size 1036 bytes
+192.168.1.1 num of packets = 11 , size 1063 bytes
+31.13.88.37 num of packets = 9 , size 666 bytes
+Total Data = 44 packets , size = 4177 bytes
+data=2016:12:11:17:11:8
+17.248.147.82 num of packets = 1 , size 54 bytes
+31.13.88.3 num of packets = 7 , size 518 bytes
+31.13.88.4 num of packets = 20 , size 1480 bytes
+192.168.1.1 num of packets = 16 , size 1611 bytes
+31.13.88.37 num of packets = 6 , size 444 bytes
+Total Data = 50 packets , size = 4107 bytes
+data=2016:12:11:17:11:38
+31.13.88.3 num of packets = 1 , size 74 bytes
+31.13.88.4 num of packets = 5 , size 370 bytes
+192.168.1.1 num of packets = 3 , size 290 bytes
+Total Data = 9 packets , size = 734 bytes
+data=2016:12:11:17:12:9
+192.168.1.5 num of packets = 4 , size 776 bytes
+Total Data = 4 packets , size = 776 bytes
+data=2016:12:11:17:12:39
+192.168.1.5 num of packets = 2 , size 148 bytes
+Total Data = 2 packets , size = 148 bytes
+data=2016:12:11:17:13:9
+192.168.1.5 num of packets = 7 , size 2258 bytes
+Total Data = 7 packets , size = 2258 bytes
+data=2016:12:11:17:13:39
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:14:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:14:39
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:15:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:15:39
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:16:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:16:39
+79.140.95.136 num of packets = 39 , size 46040 bytes
+31.13.88.50 num of packets = 18 , size 5432 bytes
+213.158.175.98 num of packets = 13 , size 6871 bytes
+213.158.175.83 num of packets = 39 , size 46985 bytes
+192.168.1.1 num of packets = 12 , size 2332 bytes
+213.158.175.73 num of packets = 77 , size 93915 bytes
+31.13.88.4 num of packets = 10 , size 740 bytes
+Total Data = 208 packets , size = 202315 bytes
+data=2016:12:11:17:17:9
+79.140.95.136 num of packets = 2 , size 108 bytes
+31.13.88.50 num of packets = 12 , size 824 bytes
+213.158.175.98 num of packets = 2 , size 108 bytes
+31.13.88.4 num of packets = 2 , size 148 bytes
+192.168.1.1 num of packets = 39 , size 6887 bytes
+213.158.175.73 num of packets = 4 , size 216 bytes
+213.158.175.83 num of packets = 2 , size 108 bytes
+Total Data = 63 packets , size = 8399 bytes
+data=2016:12:11:17:17:39
+31.13.88.4 num of packets = 1 , size 74 bytes
+192.168.1.1 num of packets = 9 , size 1733 bytes
+Total Data = 10 packets , size = 1807 bytes
+data=2016:12:11:17:18:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:18:39
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:19:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:19:39
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:20:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:20:39
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:21:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:21:39
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:22:9
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:22:39
+31.13.88.50 num of packets = 2 , size 140 bytes
+213.158.175.96 num of packets = 4 , size 240 bytes
+23.50.179.3 num of packets = 1 , size 66 bytes
+17.248.147.172 num of packets = 6 , size 348 bytes
+192.168.1.1 num of packets = 6 , size 1266 bytes
+Total Data = 19 packets , size = 2060 bytes
+data=2016:12:11:17:23:10
+17.248.147.172 num of packets = 3 , size 162 bytes
+31.13.88.50 num of packets = 2 , size 148 bytes
+213.158.175.96 num of packets = 4 , size 216 bytes
+192.168.1.1 num of packets = 13 , size 2059 bytes
+Total Data = 22 packets , size = 2585 bytes
+data=2016:12:11:17:23:40
+108.177.15.128 num of packets = 5 , size 282 bytes
+192.168.1.1 num of packets = 6 , size 904 bytes
+Total Data = 11 packets , size = 1186 bytes
+data=2016:12:11:17:24:10
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:24:40
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:25:10
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:25:40
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:26:10
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:26:40
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:27:10
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:27:40
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:28:10
+213.158.175.99 num of packets = 1 , size 66 bytes
+192.168.1.1 num of packets = 7 , size 1155 bytes
+Total Data = 8 packets , size = 1221 bytes
+data=2016:12:11:17:28:41
+192.168.1.1 num of packets = 24 , size 3018 bytes
+213.158.175.80 num of packets = 5 , size 282 bytes
+Total Data = 29 packets , size = 3300 bytes
+data=2016:12:11:17:29:11
+192.168.1.1 num of packets = 20 , size 2512 bytes
+173.252.91.113 num of packets = 6 , size 367 bytes
+Total Data = 26 packets , size = 2879 bytes
+data=2016:12:11:17:29:41
+192.168.1.1 num of packets = 6 , size 704 bytes
+173.252.91.113 num of packets = 1 , size 54 bytes
+Total Data = 7 packets , size = 758 bytes
+data=2016:12:11:17:30:11
+192.168.1.1 num of packets = 5 , size 1051 bytes
+31.13.88.50 num of packets = 1 , size 66 bytes
+213.158.175.80 num of packets = 4 , size 228 bytes
+Total Data = 10 packets , size = 1345 bytes
+data=2016:12:11:17:30:41
+17.188.166.155 num of packets = 10 , size 564 bytes
+8.8.8.8 num of packets = 1 , size 86 bytes
+192.168.1.1 num of packets = 15 , size 2444 bytes
+213.158.175.80 num of packets = 1 , size 54 bytes
+Total Data = 27 packets , size = 3148 bytes
+data=2016:12:11:17:31:11
+192.168.1.1 num of packets = 5 , size 665 bytes
+213.158.175.80 num of packets = 1 , size 54 bytes
+Total Data = 6 packets , size = 719 bytes
+data=2016:12:11:17:31:41
+216.58.204.238 num of packets = 2 , size 196 bytes
+179.60.192.7 num of packets = 6 , size 444 bytes
+8.8.8.8 num of packets = 4 , size 467 bytes
+192.168.1.1 num of packets = 10 , size 1104 bytes
+31.13.88.36 num of packets = 8 , size 592 bytes
+Total Data = 30 packets , size = 2803 bytes
+data=2016:12:11:17:32:12
+88.221.15.56 num of packets = 10 , size 740 bytes
+31.13.88.36 num of packets = 9 , size 666 bytes
+213.158.175.19 num of packets = 9 , size 666 bytes
+179.60.192.7 num of packets = 9 , size 666 bytes
+79.140.80.91 num of packets = 10 , size 740 bytes
+192.168.1.5 num of packets = 3222 , size 186852 bytes
+31.13.88.4 num of packets = 9 , size 564 bytes
+192.168.1.1 num of packets = 20 , size 4061 bytes
+31.13.88.37 num of packets = 9 , size 696 bytes
+Total Data = 3307 packets , size = 195651 bytes
+data=2016:12:11:17:32:42
+88.221.15.56 num of packets = 1 , size 74 bytes
+31.13.88.36 num of packets = 1 , size 74 bytes
+213.158.175.19 num of packets = 1 , size 74 bytes
+179.60.192.7 num of packets = 2 , size 148 bytes
+79.140.80.91 num of packets = 1 , size 74 bytes
+192.168.1.5 num of packets = 1002 , size 58108 bytes
+31.13.88.4 num of packets = 1 , size 54 bytes
+192.168.1.1 num of packets = 3 , size 466 bytes
+79.140.80.90 num of packets = 1 , size 74 bytes
+Total Data = 1013 packets , size = 59146 bytes
+data=2016:12:11:17:33:12
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:33:42
+8.8.8.8 num of packets = 1 , size 157 bytes
+Total Data = 1 packets , size = 157 bytes
+data=2016:12:11:17:34:12
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:34:42
+216.58.204.110 num of packets = 2 , size 196 bytes
+213.158.175.26 num of packets = 1 , size 66 bytes
+179.60.192.15 num of packets = 101 , size 139028 bytes
+79.140.80.104 num of packets = 5 , size 370 bytes
+192.168.1.5 num of packets = 1143 , size 66286 bytes
+88.221.15.42 num of packets = 1 , size 66 bytes
+8.8.4.4 num of packets = 7 , size 760 bytes
+192.168.1.1 num of packets = 3 , size 743 bytes
+213.158.175.65 num of packets = 1 , size 66 bytes
+Total Data = 1264 packets , size = 207581 bytes
+data=2016:12:11:17:35:12
+31.13.88.36 num of packets = 9 , size 692 bytes
+213.158.175.17 num of packets = 1 , size 74 bytes
+179.60.192.15 num of packets = 8 , size 432 bytes
+179.60.192.7 num of packets = 30 , size 34437 bytes
+79.140.80.104 num of packets = 5 , size 370 bytes
+192.168.1.5 num of packets = 1440 , size 83512 bytes
+31.13.88.3 num of packets = 7 , size 390 bytes
+31.13.88.4 num of packets = 4 , size 266 bytes
+192.168.1.1 num of packets = 14 , size 2486 bytes
+213.158.175.59 num of packets = 7 , size 518 bytes
+Total Data = 1525 packets , size = 123177 bytes
+data=2016:12:11:17:35:42
+31.13.88.36 num of packets = 1 , size 74 bytes
+213.158.175.17 num of packets = 6 , size 444 bytes
+179.60.192.15 num of packets = 1 , size 54 bytes
+179.60.192.7 num of packets = 3 , size 162 bytes
+79.140.80.104 num of packets = 5 , size 370 bytes
+31.13.88.3 num of packets = 2 , size 108 bytes
+31.13.88.4 num of packets = 1 , size 54 bytes
+192.168.1.1 num of packets = 7 , size 1456 bytes
+213.158.175.59 num of packets = 1 , size 74 bytes
+Total Data = 27 packets , size = 2796 bytes
+data=2016:12:11:17:36:12
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:36:42
+54.69.91.18 num of packets = 23 , size 9841 bytes
+213.158.175.17 num of packets = 6 , size 336 bytes
+179.60.192.7 num of packets = 8 , size 444 bytes
+79.140.80.106 num of packets = 10 , size 552 bytes
+8.8.4.4 num of packets = 13 , size 1998 bytes
+31.13.88.36 num of packets = 8 , size 444 bytes
+Total Data = 68 packets , size = 13615 bytes
+data=2016:12:11:17:37:12
+54.69.91.18 num of packets = 4 , size 1809 bytes
+31.13.88.36 num of packets = 6 , size 424 bytes
+213.158.175.17 num of packets = 2 , size 108 bytes
+179.60.192.7 num of packets = 6 , size 424 bytes
+79.140.80.106 num of packets = 1 , size 54 bytes
+8.8.4.4 num of packets = 2 , size 297 bytes
+192.168.1.1 num of packets = 6 , size 621 bytes
+Total Data = 27 packets , size = 3737 bytes
+data=2016:12:11:17:37:42
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:38:12
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:38:42
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:39:12
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:39:42
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:40:12
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:40:42
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:41:13
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:41:43
+54.69.91.18 num of packets = 1 , size 54 bytes
+8.8.4.4 num of packets = 3 , size 429 bytes
+52.41.52.12 num of packets = 11 , size 5565 bytes
+Total Data = 15 packets , size = 6048 bytes
+data=2016:12:11:17:42:13
+52.41.52.12 num of packets = 4 , size 1708 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 8 packets , size = 2302 bytes
+data=2016:12:11:17:42:43
+52.41.52.12 num of packets = 7 , size 2041 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2635 bytes
+data=2016:12:11:17:43:13
+52.41.52.12 num of packets = 5 , size 1822 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2416 bytes
+data=2016:12:11:17:43:43
+52.41.52.12 num of packets = 6 , size 1946 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2540 bytes
+data=2016:12:11:17:44:13
+52.41.52.12 num of packets = 6 , size 1922 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2516 bytes
+data=2016:12:11:17:44:43
+52.41.52.12 num of packets = 8 , size 2136 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:17:45:13
+184.51.148.34 num of packets = 13 , size 7194 bytes
+79.140.95.154 num of packets = 28 , size 28086 bytes
+179.60.192.15 num of packets = 154 , size 215053 bytes
+179.60.192.7 num of packets = 38 , size 40475 bytes
+31.13.93.36 num of packets = 209 , size 192486 bytes
+195.22.200.41 num of packets = 11 , size 7050 bytes
+31.13.92.10 num of packets = 13 , size 4829 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+79.140.94.194 num of packets = 122 , size 77366 bytes
+31.13.93.3 num of packets = 21 , size 6074 bytes
+8.8.4.4 num of packets = 42 , size 6628 bytes
+Total Data = 657 packets , size = 587163 bytes
+data=2016:12:11:17:45:43
+216.58.204.110 num of packets = 13 , size 5795 bytes
+79.140.95.154 num of packets = 13 , size 1154 bytes
+137.254.60.10 num of packets = 30 , size 16406 bytes
+137.254.60.11 num of packets = 26 , size 15926 bytes
+137.254.60.6 num of packets = 7 , size 4050 bytes
+31.13.93.36 num of packets = 39 , size 9678 bytes
+66.235.139.207 num of packets = 12 , size 8878 bytes
+52.41.52.12 num of packets = 5 , size 1134 bytes
+79.140.94.194 num of packets = 6 , size 396 bytes
+31.13.93.3 num of packets = 9 , size 1609 bytes
+46.137.162.254 num of packets = 19 , size 23117 bytes
+8.8.4.4 num of packets = 32 , size 4714 bytes
+Total Data = 211 packets , size = 92857 bytes
+data=2016:12:11:17:46:13
+79.140.95.154 num of packets = 5 , size 383 bytes
+137.254.60.10 num of packets = 14 , size 1014 bytes
+137.254.60.11 num of packets = 3 , size 198 bytes
+179.60.192.15 num of packets = 3 , size 244 bytes
+137.254.60.6 num of packets = 4 , size 309 bytes
+31.13.92.10 num of packets = 1 , size 112 bytes
+66.235.139.207 num of packets = 31 , size 11157 bytes
+179.60.192.7 num of packets = 1 , size 112 bytes
+8.8.4.4 num of packets = 6 , size 854 bytes
+79.140.94.194 num of packets = 9 , size 625 bytes
+31.13.93.3 num of packets = 4 , size 374 bytes
+46.137.162.254 num of packets = 2 , size 132 bytes
+52.41.52.12 num of packets = 6 , size 1941 bytes
+Total Data = 89 packets , size = 17455 bytes
+data=2016:12:11:17:46:43
+216.58.204.110 num of packets = 1 , size 112 bytes
+31.13.93.36 num of packets = 1 , size 112 bytes
+52.41.52.12 num of packets = 5 , size 2496 bytes
+79.140.94.194 num of packets = 3 , size 229 bytes
+46.137.162.254 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 17 packets , size = 3741 bytes
+data=2016:12:11:17:47:13
+179.60.192.15 num of packets = 2 , size 178 bytes
+179.60.192.7 num of packets = 1 , size 112 bytes
+31.13.92.10 num of packets = 1 , size 112 bytes
+52.41.52.12 num of packets = 6 , size 1970 bytes
+31.13.93.3 num of packets = 3 , size 290 bytes
+46.137.162.254 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 20 packets , size = 3454 bytes
+data=2016:12:11:17:47:43
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:48:13
+216.58.204.110 num of packets = 1 , size 54 bytes
+93.184.220.127 num of packets = 1 , size 66 bytes
+179.60.192.15 num of packets = 5 , size 441 bytes
+179.60.192.7 num of packets = 5 , size 441 bytes
+31.13.93.36 num of packets = 1 , size 54 bytes
+31.13.92.10 num of packets = 5 , size 441 bytes
+52.32.183.205 num of packets = 22 , size 9717 bytes
+8.8.4.4 num of packets = 5 , size 732 bytes
+31.13.93.3 num of packets = 1 , size 54 bytes
+Total Data = 46 packets , size = 12000 bytes
+data=2016:12:11:17:48:43
+93.184.220.127 num of packets = 7 , size 378 bytes
+52.32.183.205 num of packets = 22 , size 3313 bytes
+8.8.4.4 num of packets = 2 , size 297 bytes
+192.168.1.1 num of packets = 67 , size 10720 bytes
+Total Data = 98 packets , size = 14708 bytes
+data=2016:12:11:17:49:13
+52.32.183.205 num of packets = 6 , size 1941 bytes
+Total Data = 6 packets , size = 1941 bytes
+data=2016:12:11:17:49:43
+52.32.183.205 num of packets = 6 , size 1922 bytes
+Total Data = 6 packets , size = 1922 bytes
+data=2016:12:11:17:50:13
+52.32.183.205 num of packets = 5 , size 1134 bytes
+Total Data = 5 packets , size = 1134 bytes
+data=2016:12:11:17:50:43
+52.32.183.205 num of packets = 6 , size 1941 bytes
+Total Data = 6 packets , size = 1941 bytes
+data=2016:12:11:17:51:13
+52.32.183.205 num of packets = 7 , size 2019 bytes
+Total Data = 7 packets , size = 2019 bytes
+data=2016:12:11:17:51:43
+52.32.183.205 num of packets = 2 , size 854 bytes
+Total Data = 2 packets , size = 854 bytes
+data=2016:12:11:17:52:14
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:52:44
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:17:53:14
+192.168.1.1 num of packets = 5 , size 541 bytes
+Total Data = 5 packets , size = 541 bytes
+data=2016:12:11:17:53:44
+8.8.4.4 num of packets = 1 , size 140 bytes
+192.168.1.1 num of packets = 1 , size 93 bytes
+Total Data = 2 packets , size = 233 bytes
+data=2016:12:11:17:54:14
+52.32.183.205 num of packets = 1 , size 54 bytes
+8.8.4.4 num of packets = 3 , size 429 bytes
+52.41.52.12 num of packets = 14 , size 5845 bytes
+Total Data = 18 packets , size = 6328 bytes
+data=2016:12:11:17:54:44
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+Total Data = 10 packets , size = 2516 bytes
+data=2016:12:11:17:55:14
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 6 , size 1975 bytes
+Total Data = 10 packets , size = 2569 bytes
+data=2016:12:11:17:55:44
+52.41.52.12 num of packets = 5 , size 1827 bytes
+8.8.4.4 num of packets = 5 , size 680 bytes
+Total Data = 10 packets , size = 2507 bytes
+data=2016:12:11:17:56:14
+52.41.52.12 num of packets = 13 , size 6070 bytes
+8.8.4.4 num of packets = 14 , size 2079 bytes
+Total Data = 27 packets , size = 8149 bytes
+data=2016:12:11:17:56:44
+192.168.1.3 num of packets = 3138 , size 181980 bytes
+8.8.4.4 num of packets = 12 , size 1782 bytes
+52.41.52.12 num of packets = 14 , size 5608 bytes
+Total Data = 3164 packets , size = 189370 bytes
+data=2016:12:11:17:57:14
+8.8.4.4 num of packets = 13 , size 1947 bytes
+52.41.52.12 num of packets = 11 , size 4596 bytes
+Total Data = 24 packets , size = 6543 bytes
+data=2016:12:11:17:57:44
+52.88.154.16 num of packets = 8 , size 4016 bytes
+52.41.52.12 num of packets = 15 , size 5722 bytes
+8.8.4.4 num of packets = 13 , size 2192 bytes
+Total Data = 36 packets , size = 11930 bytes
+data=2016:12:11:17:58:14
+52.88.154.16 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 6 , size 891 bytes
+52.41.52.12 num of packets = 6 , size 2658 bytes
+Total Data = 15 packets , size = 3747 bytes
+data=2016:12:11:17:58:44
+52.88.154.16 num of packets = 3 , size 229 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 13 packets , size = 2745 bytes
+data=2016:12:11:17:59:15
+52.41.52.12 num of packets = 6 , size 1946 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2540 bytes
+data=2016:12:11:17:59:45
+52.41.52.12 num of packets = 12 , size 4003 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 16 packets , size = 4597 bytes
+data=2016:12:11:18:0:15
+52.41.52.12 num of packets = 6 , size 1946 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2540 bytes
+data=2016:12:11:18:0:45
+52.41.52.12 num of packets = 10 , size 2198 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 14 packets , size = 2792 bytes
+data=2016:12:11:18:1:15
+52.41.52.12 num of packets = 7 , size 1278 bytes
+8.8.4.4 num of packets = 2 , size 297 bytes
+Total Data = 9 packets , size = 1575 bytes
+data=2016:12:11:18:1:45
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 6 , size 1893 bytes
+Total Data = 10 packets , size = 2487 bytes
+data=2016:12:11:18:2:15
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 7 , size 2041 bytes
+Total Data = 11 packets , size = 2635 bytes
+data=2016:12:11:18:2:45
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 8 , size 2136 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:18:3:15
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 8 , size 2136 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:18:3:46
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+Total Data = 10 packets , size = 2516 bytes
+data=2016:12:11:18:4:16
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 5 , size 1822 bytes
+Total Data = 9 packets , size = 2416 bytes
+data=2016:12:11:18:4:46
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 7 , size 2041 bytes
+Total Data = 11 packets , size = 2635 bytes
+data=2016:12:11:18:5:16
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 5 , size 1827 bytes
+Total Data = 9 packets , size = 2421 bytes
+data=2016:12:11:18:5:46
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 8 , size 2136 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:18:6:16
+8.8.4.4 num of packets = 5 , size 759 bytes
+52.41.52.12 num of packets = 7 , size 2070 bytes
+Total Data = 12 packets , size = 2829 bytes
+data=2016:12:11:18:6:46
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 5 , size 1856 bytes
+Total Data = 9 packets , size = 2450 bytes
+data=2016:12:11:18:7:16
+52.41.52.12 num of packets = 8 , size 2136 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:18:7:47
+52.41.52.12 num of packets = 4 , size 1708 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 8 packets , size = 2302 bytes
+data=2016:12:11:18:8:17
+52.41.52.12 num of packets = 6 , size 1941 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2535 bytes
+data=2016:12:11:18:8:47
+52.41.52.12 num of packets = 5 , size 1822 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2416 bytes
+data=2016:12:11:18:9:17
+52.41.52.12 num of packets = 7 , size 2036 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2630 bytes
+data=2016:12:11:18:9:48
+52.41.52.12 num of packets = 8 , size 2136 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:18:10:18
+52.41.52.12 num of packets = 8 , size 2136 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:18:10:48
+52.41.52.12 num of packets = 7 , size 2036 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2630 bytes
+data=2016:12:11:18:11:18
+52.41.52.12 num of packets = 6 , size 1922 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2516 bytes
+data=2016:12:11:18:11:48
+52.41.52.12 num of packets = 5 , size 1827 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 9 packets , size = 2421 bytes
+data=2016:12:11:18:12:18
+52.41.52.12 num of packets = 7 , size 2041 bytes
+8.8.4.4 num of packets = 5 , size 726 bytes
+Total Data = 12 packets , size = 2767 bytes
+data=2016:12:11:18:12:48
+52.41.52.12 num of packets = 6 , size 1941 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2535 bytes
+data=2016:12:11:18:13:18
+52.41.52.12 num of packets = 6 , size 1922 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2516 bytes
+data=2016:12:11:18:13:48
+52.41.52.12 num of packets = 7 , size 2036 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2630 bytes
+data=2016:12:11:18:14:18
+52.41.52.12 num of packets = 5 , size 1827 bytes
+8.8.4.4 num of packets = 3 , size 429 bytes
+Total Data = 8 packets , size = 2256 bytes
+data=2016:12:11:18:14:48
+8.8.4.4 num of packets = 4 , size 594 bytes
+52.41.52.12 num of packets = 8 , size 2136 bytes
+Total Data = 12 packets , size = 2730 bytes
+data=2016:12:11:18:15:18
+8.8.4.4 num of packets = 6 , size 891 bytes
+52.41.52.12 num of packets = 6 , size 1941 bytes
+Total Data = 12 packets , size = 2832 bytes
+data=2016:12:11:18:15:48
+52.41.52.12 num of packets = 4 , size 1708 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 8 packets , size = 2302 bytes
+data=2016:12:11:18:16:18
+52.41.52.12 num of packets = 3 , size 920 bytes
+8.8.4.4 num of packets = 2 , size 297 bytes
+Total Data = 5 packets , size = 1217 bytes
+data=2016:12:11:18:16:48
+52.41.52.12 num of packets = 3 , size 198 bytes
+Total Data = 3 packets , size = 198 bytes
+data=2016:12:11:18:17:18
+52.41.52.12 num of packets = 3 , size 229 bytes
+Total Data = 3 packets , size = 229 bytes
+data=2016:12:11:18:17:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:18:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:18:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:19:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:19:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:20:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:20:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:21:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:21:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:22:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:22:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:23:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:23:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:24:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:24:48
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:25:18
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:25:49
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:26:19
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:26:49
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:27:19
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:27:49
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:28:19
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:28:49
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:29:19
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:29:50
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:30:20
+8.8.4.4 num of packets = 1 , size 86 bytes
+Total Data = 1 packets , size = 86 bytes
+data=2016:12:11:18:30:50
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:31:20
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:31:50
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:32:20
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:32:50
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:33:20
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:33:50
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:34:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:34:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:35:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:35:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:36:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:36:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:37:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:37:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:38:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:38:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:39:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:39:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:40:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:40:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:41:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:41:51
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:42:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:42:51
+8.8.4.4 num of packets = 2 , size 172 bytes
+Total Data = 2 packets , size = 172 bytes
+data=2016:12:11:18:43:21
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:43:52
+192.168.1.3 num of packets = 3007 , size 174382 bytes
+8.8.4.4 num of packets = 1 , size 86 bytes
+Total Data = 3008 packets , size = 174468 bytes
+data=2016:12:11:18:44:22
+192.168.1.3 num of packets = 1002 , size 58108 bytes
+Total Data = 1002 packets , size = 58108 bytes
+data=2016:12:11:18:44:52
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:45:22
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:45:52
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:46:22
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:46:52
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:47:22
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:47:52
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:48:22
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:48:52
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:49:22
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:49:53
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:50:23
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:50:53
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:51:23
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:51:53
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:52:23
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:52:53
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:53:23
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:53:53
+192.168.1.3 num of packets = 1002 , size 58108 bytes
+Total Data = 1002 packets , size = 58108 bytes
+data=2016:12:11:18:54:23
+192.168.1.3 num of packets = 4008 , size 232432 bytes
+8.8.4.4 num of packets = 1 , size 86 bytes
+Total Data = 4009 packets , size = 232518 bytes
+data=2016:12:11:18:54:53
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:55:23
+Total Data = 0 packets , size = 0 bytes
+data=2016:12:11:18:55:53
+52.32.183.205 num of packets = 7 , size 4516 bytes
+8.8.4.4 num of packets = 3 , size 429 bytes
+Total Data = 10 packets , size = 4945 bytes
+data=2016:12:11:18:56:23
+52.32.183.205 num of packets = 13 , size 5508 bytes
+8.8.4.4 num of packets = 12 , size 1782 bytes
+Total Data = 25 packets , size = 7290 bytes
+data=2016:12:11:18:56:53
+52.32.183.205 num of packets = 18 , size 5821 bytes
+8.8.4.4 num of packets = 10 , size 1485 bytes
+Total Data = 28 packets , size = 7306 bytes
+data=2016:12:11:18:57:23
+52.32.183.205 num of packets = 13 , size 5503 bytes
+8.8.4.4 num of packets = 12 , size 1782 bytes
+Total Data = 25 packets , size = 7285 bytes
+data=2016:12:11:18:57:54
+52.32.183.205 num of packets = 11 , size 4606 bytes
+8.8.4.4 num of packets = 13 , size 2192 bytes
+54.191.71.231 num of packets = 8 , size 4016 bytes
+Total Data = 32 packets , size = 10814 bytes
+data=2016:12:11:18:58:24
+52.32.183.205 num of packets = 6 , size 1941 bytes
+54.191.71.231 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 13 packets , size = 2733 bytes
+data=2016:12:11:18:58:54
+52.32.183.205 num of packets = 5 , size 1827 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+54.191.71.231 num of packets = 4 , size 307 bytes
+Total Data = 13 packets , size = 2728 bytes
+data=2016:12:11:18:59:24
+52.32.183.205 num of packets = 7 , size 2041 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2635 bytes
+data=2016:12:11:18:59:54
+52.32.183.205 num of packets = 10 , size 2280 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 14 packets , size = 2874 bytes
+data=2016:12:11:19:0:24
+52.32.183.205 num of packets = 4 , size 1761 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 8 packets , size = 2355 bytes
+data=2016:12:11:19:0:54
+52.32.183.205 num of packets = 6 , size 1941 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2535 bytes
+data=2016:12:11:19:1:24
+52.32.183.205 num of packets = 7 , size 2036 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 11 packets , size = 2630 bytes
+data=2016:12:11:19:1:54
+52.32.183.205 num of packets = 6 , size 1941 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 10 packets , size = 2535 bytes
+data=2016:12:11:19:2:24
+8.8.4.4 num of packets = 14 , size 1900 bytes
+52.41.52.12 num of packets = 12 , size 7094 bytes
+Total Data = 26 packets , size = 8994 bytes
+data=2016:12:11:19:19:47
+184.51.148.33 num of packets = 119 , size 74865 bytes
+216.58.198.110 num of packets = 26 , size 11061 bytes
+195.22.200.16 num of packets = 11 , size 7050 bytes
+31.13.88.15 num of packets = 163 , size 219234 bytes
+31.13.92.10 num of packets = 57 , size 20004 bytes
+8.8.4.4 num of packets = 61 , size 9197 bytes
+79.140.94.219 num of packets = 22 , size 14100 bytes
+31.13.88.8 num of packets = 29 , size 19563 bytes
+31.13.92.36 num of packets = 232 , size 199707 bytes
+17.248.147.78 num of packets = 2 , size 163 bytes
+17.248.147.79 num of packets = 2 , size 163 bytes
+79.140.94.210 num of packets = 41 , size 20905 bytes
+52.41.52.12 num of packets = 16 , size 6416 bytes
+Total Data = 781 packets , size = 602428 bytes
+data=2016:12:11:19:20:17
+184.51.148.33 num of packets = 6 , size 396 bytes
+31.13.92.10 num of packets = 4 , size 1169 bytes
+8.8.4.4 num of packets = 20 , size 2755 bytes
+31.13.92.36 num of packets = 25 , size 5198 bytes
+79.140.94.210 num of packets = 6 , size 396 bytes
+52.41.52.12 num of packets = 12 , size 4701 bytes
+Total Data = 73 packets , size = 14615 bytes
+data=2016:12:11:19:20:47
+184.51.148.33 num of packets = 12 , size 7911 bytes
+216.58.198.110 num of packets = 4 , size 356 bytes
+195.22.200.16 num of packets = 30 , size 26508 bytes
+31.13.88.15 num of packets = 3 , size 290 bytes
+31.13.92.10 num of packets = 22 , size 2315 bytes
+8.8.4.4 num of packets = 45 , size 7220 bytes
+79.140.94.219 num of packets = 38 , size 6492 bytes
+31.13.88.8 num of packets = 61 , size 59714 bytes
+31.13.92.36 num of packets = 91 , size 75637 bytes
+52.94.232.33 num of packets = 9 , size 5852 bytes
+79.140.94.210 num of packets = 15 , size 1246 bytes
+52.41.52.12 num of packets = 13 , size 5489 bytes
+Total Data = 343 packets , size = 199030 bytes
+data=2016:12:11:19:21:17
+54.239.17.80 num of packets = 11 , size 5578 bytes
+184.51.148.33 num of packets = 42 , size 52825 bytes
+195.22.200.16 num of packets = 9 , size 5243 bytes
+52.94.232.33 num of packets = 3 , size 162 bytes
+31.13.92.10 num of packets = 23 , size 2290 bytes
+79.140.94.209 num of packets = 25 , size 16407 bytes
+8.8.4.4 num of packets = 32 , size 4206 bytes
+79.140.94.219 num of packets = 21 , size 22998 bytes
+31.13.88.8 num of packets = 51 , size 52511 bytes
+31.13.92.36 num of packets = 101 , size 89193 bytes
+52.41.52.12 num of packets = 6 , size 2663 bytes
+Total Data = 324 packets , size = 254076 bytes
+data=2016:12:11:19:21:47
+54.239.17.80 num of packets = 3 , size 162 bytes
+184.51.148.33 num of packets = 8 , size 3515 bytes
+216.58.198.110 num of packets = 2 , size 224 bytes
+195.22.200.16 num of packets = 5 , size 330 bytes
+17.178.104.39 num of packets = 1 , size 85 bytes
+31.13.88.15 num of packets = 2 , size 224 bytes
+31.13.92.10 num of packets = 9 , size 1053 bytes
+79.140.94.209 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 5 , size 1822 bytes
+79.140.94.219 num of packets = 7 , size 493 bytes
+31.13.88.8 num of packets = 46 , size 56152 bytes
+31.13.92.36 num of packets = 46 , size 33627 bytes
+52.94.232.33 num of packets = 3 , size 162 bytes
+8.8.4.4 num of packets = 16 , size 2492 bytes
+Total Data = 156 packets , size = 100539 bytes
+data=2016:12:11:19:22:18
+54.239.17.80 num of packets = 4 , size 247 bytes
+184.51.148.33 num of packets = 6 , size 396 bytes
+195.22.200.16 num of packets = 6 , size 396 bytes
+52.94.232.33 num of packets = 3 , size 193 bytes
+31.13.92.10 num of packets = 1 , size 227 bytes
+79.140.94.209 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 4 , size 1708 bytes
+79.140.94.219 num of packets = 5 , size 361 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 36 packets , size = 4320 bytes
+data=2016:12:11:19:22:48
+184.51.148.33 num of packets = 6 , size 396 bytes
+216.58.198.110 num of packets = 8 , size 600 bytes
+195.22.200.16 num of packets = 9 , size 656 bytes
+31.13.88.15 num of packets = 12 , size 990 bytes
+31.13.92.10 num of packets = 22 , size 2127 bytes
+79.140.94.209 num of packets = 3 , size 229 bytes
+52.41.52.12 num of packets = 7 , size 2036 bytes
+31.13.88.8 num of packets = 1 , size 112 bytes
+31.13.92.36 num of packets = 12 , size 1131 bytes
+8.8.4.4 num of packets = 8 , size 1108 bytes
+Total Data = 88 packets , size = 9385 bytes
+data=2016:12:11:19:23:18
+184.51.148.33 num of packets = 11 , size 6803 bytes
+195.22.200.16 num of packets = 14 , size 2774 bytes
+54.239.17.113 num of packets = 20 , size 11538 bytes
+31.13.92.10 num of packets = 17 , size 1759 bytes
+2.18.212.41 num of packets = 49 , size 60935 bytes
+54.239.17.116 num of packets = 20 , size 10820 bytes
+8.8.4.4 num of packets = 31 , size 4679 bytes
+31.13.88.8 num of packets = 100 , size 128899 bytes
+31.13.92.36 num of packets = 75 , size 57364 bytes
+77.67.29.96 num of packets = 35 , size 24628 bytes
+52.41.52.12 num of packets = 4 , size 1708 bytes
+Total Data = 376 packets , size = 311907 bytes
+data=2016:12:11:19:23:48
+31.13.92.10 num of packets = 5 , size 1687 bytes
+184.51.148.33 num of packets = 7 , size 493 bytes
+195.22.200.16 num of packets = 3 , size 198 bytes
+54.239.17.113 num of packets = 3 , size 162 bytes
+2.18.212.41 num of packets = 3 , size 198 bytes
+54.239.17.116 num of packets = 3 , size 162 bytes
+8.8.4.4 num of packets = 8 , size 1145 bytes
+31.13.88.8 num of packets = 9 , size 11716 bytes
+31.13.92.36 num of packets = 16 , size 9563 bytes
+77.67.29.96 num of packets = 10 , size 5023 bytes
+52.41.52.12 num of packets = 7 , size 2041 bytes
+Total Data = 74 packets , size = 32388 bytes
+data=2016:12:11:19:24:18
+184.51.148.33 num of packets = 3 , size 198 bytes
+195.22.200.16 num of packets = 3 , size 198 bytes
+54.239.17.113 num of packets = 5 , size 301 bytes
+31.13.92.10 num of packets = 19 , size 2702 bytes
+2.18.212.41 num of packets = 28 , size 22245 bytes
+54.239.17.116 num of packets = 5 , size 301 bytes
+8.8.4.4 num of packets = 21 , size 3446 bytes
+31.13.88.8 num of packets = 23 , size 20121 bytes
+31.13.92.36 num of packets = 38 , size 37773 bytes
+77.67.29.96 num of packets = 8 , size 2249 bytes
+52.41.52.12 num of packets = 8 , size 2136 bytes
+Total Data = 161 packets , size = 91670 bytes
+data=2016:12:11:19:24:48
+184.51.148.33 num of packets = 3 , size 198 bytes
+195.22.200.16 num of packets = 5 , size 361 bytes
+31.13.92.10 num of packets = 2 , size 365 bytes
+2.18.212.41 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 4 , size 1708 bytes
+31.13.92.36 num of packets = 12 , size 2207 bytes
+77.67.29.96 num of packets = 6 , size 396 bytes
+8.8.4.4 num of packets = 8 , size 1102 bytes
+Total Data = 43 packets , size = 6535 bytes
+data=2016:12:11:19:25:18
+77.67.29.11 num of packets = 8 , size 6821 bytes
+184.51.148.33 num of packets = 5 , size 361 bytes
+195.22.200.42 num of packets = 10 , size 8629 bytes
+31.13.92.10 num of packets = 8 , size 1799 bytes
+2.18.212.41 num of packets = 2 , size 132 bytes
+52.41.52.12 num of packets = 8 , size 2136 bytes
+31.13.88.8 num of packets = 54 , size 69505 bytes
+31.13.92.36 num of packets = 97 , size 84622 bytes
+184.51.148.65 num of packets = 23 , size 11466 bytes
+77.67.29.96 num of packets = 9 , size 4042 bytes
+8.8.4.4 num of packets = 20 , size 3400 bytes
+Total Data = 244 packets , size = 192913 bytes
+data=2016:12:11:19:25:48
+77.67.29.11 num of packets = 3 , size 229 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+31.13.92.10 num of packets = 10 , size 1251 bytes
+2.18.212.41 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 14 , size 1870 bytes
+31.13.88.8 num of packets = 12 , size 15984 bytes
+31.13.92.36 num of packets = 38 , size 30626 bytes
+184.51.148.65 num of packets = 14 , size 986 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 6 , size 1941 bytes
+Total Data = 106 packets , size = 53481 bytes
+data=2016:12:11:19:26:18
+216.58.198.110 num of packets = 7 , size 744 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+31.13.92.10 num of packets = 1 , size 229 bytes
+2.18.212.41 num of packets = 5 , size 361 bytes
+8.8.4.4 num of packets = 13 , size 1722 bytes
+31.13.92.36 num of packets = 17 , size 6406 bytes
+184.51.148.65 num of packets = 3 , size 198 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 6 , size 1946 bytes
+Total Data = 58 packets , size = 12002 bytes
+data=2016:12:11:19:26:48
+77.67.29.11 num of packets = 14 , size 9609 bytes
+52.94.232.73 num of packets = 21 , size 10874 bytes
+79.140.95.99 num of packets = 14 , size 7559 bytes
+92.122.48.138 num of packets = 65 , size 42511 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+31.13.92.10 num of packets = 24 , size 2748 bytes
+54.239.17.113 num of packets = 17 , size 1516 bytes
+52.41.52.12 num of packets = 4 , size 1708 bytes
+31.13.88.8 num of packets = 161 , size 217627 bytes
+31.13.92.36 num of packets = 78 , size 72177 bytes
+184.51.148.65 num of packets = 60 , size 66887 bytes
+77.67.29.96 num of packets = 174 , size 252631 bytes
+8.8.4.4 num of packets = 39 , size 6493 bytes
+Total Data = 674 packets , size = 692538 bytes
+data=2016:12:11:19:27:18
+77.67.29.11 num of packets = 3 , size 198 bytes
+52.94.232.73 num of packets = 3 , size 162 bytes
+216.58.198.110 num of packets = 1 , size 78 bytes
+92.122.48.138 num of packets = 3 , size 198 bytes
+31.13.92.14 num of packets = 12 , size 6591 bytes
+79.140.95.99 num of packets = 5 , size 383 bytes
+195.22.200.42 num of packets = 3 , size 229 bytes
+54.239.17.113 num of packets = 3 , size 162 bytes
+31.13.92.10 num of packets = 4 , size 2468 bytes
+52.41.52.12 num of packets = 5 , size 1134 bytes
+184.51.148.65 num of packets = 3 , size 198 bytes
+2.18.212.64 num of packets = 11 , size 9322 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 4 , size 545 bytes
+Total Data = 63 packets , size = 21866 bytes
+data=2016:12:11:19:27:48
+77.67.29.11 num of packets = 3 , size 198 bytes
+52.94.232.73 num of packets = 5 , size 301 bytes
+54.239.17.113 num of packets = 5 , size 301 bytes
+92.122.48.138 num of packets = 3 , size 198 bytes
+2.18.212.64 num of packets = 28 , size 36123 bytes
+31.13.92.10 num of packets = 11 , size 1301 bytes
+8.8.4.4 num of packets = 25 , size 4485 bytes
+31.13.88.8 num of packets = 5 , size 2092 bytes
+31.13.92.36 num of packets = 43 , size 35816 bytes
+79.140.95.99 num of packets = 8 , size 783 bytes
+184.51.148.65 num of packets = 3 , size 198 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 12 , size 3964 bytes
+Total Data = 154 packets , size = 85958 bytes
+data=2016:12:11:19:28:18
+77.67.29.11 num of packets = 4 , size 264 bytes
+52.94.232.73 num of packets = 18 , size 6118 bytes
+79.140.95.99 num of packets = 8 , size 782 bytes
+31.13.92.14 num of packets = 4 , size 356 bytes
+92.122.48.138 num of packets = 3 , size 198 bytes
+195.22.200.40 num of packets = 11 , size 7050 bytes
+31.13.92.10 num of packets = 16 , size 1684 bytes
+54.239.17.113 num of packets = 19 , size 6554 bytes
+8.8.4.4 num of packets = 14 , size 1798 bytes
+31.13.88.8 num of packets = 104 , size 143941 bytes
+31.13.92.36 num of packets = 65 , size 63934 bytes
+184.51.148.65 num of packets = 4 , size 264 bytes
+2.18.212.64 num of packets = 3 , size 198 bytes
+77.67.29.96 num of packets = 7 , size 4694 bytes
+52.41.52.12 num of packets = 8 , size 2855 bytes
+Total Data = 288 packets , size = 240690 bytes
+data=2016:12:11:19:28:48
+77.67.29.11 num of packets = 6 , size 427 bytes
+52.94.232.73 num of packets = 3 , size 162 bytes
+31.13.92.10 num of packets = 3 , size 484 bytes
+92.122.48.138 num of packets = 5 , size 361 bytes
+195.22.200.40 num of packets = 8 , size 714 bytes
+2.18.212.64 num of packets = 3 , size 198 bytes
+54.239.17.113 num of packets = 3 , size 162 bytes
+52.41.52.12 num of packets = 6 , size 1840 bytes
+31.13.88.8 num of packets = 226 , size 315191 bytes
+31.13.92.36 num of packets = 54 , size 60208 bytes
+184.51.148.65 num of packets = 4 , size 295 bytes
+77.67.29.96 num of packets = 5 , size 1896 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 330 packets , size = 382532 bytes
+data=2016:12:11:19:29:18
+52.94.232.73 num of packets = 26 , size 11191 bytes
+2.18.212.64 num of packets = 3 , size 198 bytes
+31.13.92.14 num of packets = 2 , size 178 bytes
+31.13.92.10 num of packets = 8 , size 1183 bytes
+54.239.17.113 num of packets = 23 , size 6817 bytes
+52.41.52.12 num of packets = 5 , size 1774 bytes
+31.13.88.8 num of packets = 622 , size 865045 bytes
+31.13.92.36 num of packets = 104 , size 103570 bytes
+77.67.29.96 num of packets = 4 , size 264 bytes
+8.8.4.4 num of packets = 29 , size 4451 bytes
+Total Data = 826 packets , size = 994671 bytes
+data=2016:12:11:19:29:48
+52.94.232.73 num of packets = 3 , size 390 bytes
+31.13.92.10 num of packets = 3 , size 536 bytes
+195.22.200.40 num of packets = 8 , size 714 bytes
+2.18.212.64 num of packets = 6 , size 427 bytes
+54.239.17.113 num of packets = 3 , size 436 bytes
+79.140.95.121 num of packets = 11 , size 7135 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+31.13.88.8 num of packets = 551 , size 769641 bytes
+31.13.92.36 num of packets = 112 , size 72311 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 20 , size 3216 bytes
+Total Data = 726 packets , size = 856926 bytes
+data=2016:12:11:19:30:18
+52.94.232.73 num of packets = 3 , size 162 bytes
+31.13.92.10 num of packets = 4 , size 517 bytes
+31.13.92.14 num of packets = 6 , size 495 bytes
+184.51.148.8 num of packets = 24 , size 19413 bytes
+54.239.17.113 num of packets = 3 , size 162 bytes
+2.18.212.35 num of packets = 25 , size 20025 bytes
+79.140.95.121 num of packets = 5 , size 383 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+31.13.88.8 num of packets = 84 , size 117389 bytes
+31.13.92.36 num of packets = 72 , size 58697 bytes
+195.22.200.34 num of packets = 46 , size 32981 bytes
+77.67.29.96 num of packets = 6 , size 4064 bytes
+8.8.4.4 num of packets = 9 , size 1189 bytes
+Total Data = 293 packets , size = 257399 bytes
+data=2016:12:11:19:30:48
+2.18.212.35 num of packets = 3 , size 198 bytes
+31.13.92.10 num of packets = 6 , size 695 bytes
+184.51.148.8 num of packets = 14 , size 10585 bytes
+54.239.17.113 num of packets = 5 , size 301 bytes
+52.94.232.73 num of packets = 5 , size 301 bytes
+52.41.52.12 num of packets = 5 , size 1827 bytes
+31.13.88.8 num of packets = 7 , size 6753 bytes
+31.13.92.36 num of packets = 43 , size 46988 bytes
+195.22.200.34 num of packets = 3 , size 198 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 14 , size 2646 bytes
+Total Data = 108 packets , size = 70690 bytes
+data=2016:12:11:19:31:18
+2.18.212.35 num of packets = 173 , size 167159 bytes
+216.58.198.110 num of packets = 10 , size 1437 bytes
+54.239.17.80 num of packets = 10 , size 5296 bytes
+184.51.148.8 num of packets = 25 , size 5558 bytes
+31.13.88.15 num of packets = 384 , size 553142 bytes
+31.13.92.10 num of packets = 14 , size 1434 bytes
+52.94.232.73 num of packets = 11 , size 5578 bytes
+8.8.4.4 num of packets = 35 , size 4692 bytes
+31.13.88.8 num of packets = 70 , size 92829 bytes
+31.13.92.36 num of packets = 182 , size 205806 bytes
+195.22.200.34 num of packets = 3 , size 198 bytes
+72.21.206.141 num of packets = 11 , size 5960 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 7 , size 2041 bytes
+Total Data = 938 packets , size = 1051328 bytes
+data=2016:12:11:19:31:48
+2.18.212.35 num of packets = 9 , size 594 bytes
+216.58.198.110 num of packets = 1 , size 112 bytes
+184.51.148.8 num of packets = 3 , size 198 bytes
+31.13.92.10 num of packets = 13 , size 3339 bytes
+52.94.232.73 num of packets = 3 , size 162 bytes
+8.8.4.4 num of packets = 12 , size 1610 bytes
+31.13.88.8 num of packets = 1 , size 112 bytes
+31.13.92.36 num of packets = 36 , size 11405 bytes
+195.22.200.34 num of packets = 3 , size 198 bytes
+72.21.206.141 num of packets = 3 , size 162 bytes
+77.67.29.96 num of packets = 3 , size 198 bytes
+52.41.52.12 num of packets = 7 , size 2036 bytes
+Total Data = 94 packets , size = 20126 bytes
+data=2016:12:11:19:32:18
+2.18.212.35 num of packets = 9 , size 594 bytes
+195.22.200.17 num of packets = 2 , size 140 bytes
+184.51.148.8 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+31.13.92.10 num of packets = 3 , size 1082 bytes
+52.94.232.73 num of packets = 4 , size 247 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+31.13.88.8 num of packets = 3 , size 2261 bytes
+31.13.92.36 num of packets = 29 , size 30834 bytes
+195.22.200.34 num of packets = 4 , size 295 bytes
+72.21.206.141 num of packets = 4 , size 247 bytes
+77.67.29.96 num of packets = 5 , size 361 bytes
+8.8.4.4 num of packets = 14 , size 2408 bytes
+Total Data = 87 packets , size = 40701 bytes
+data=2016:12:11:19:32:48
+2.18.212.35 num of packets = 18 , size 1281 bytes
+216.58.198.110 num of packets = 1 , size 112 bytes
+195.22.200.17 num of packets = 85 , size 93755 bytes
+184.51.148.8 num of packets = 6 , size 3595 bytes
+31.13.92.10 num of packets = 35 , size 4569 bytes
+77.67.29.90 num of packets = 85 , size 91970 bytes
+8.8.4.4 num of packets = 22 , size 3108 bytes
+31.13.88.8 num of packets = 124 , size 148178 bytes
+31.13.92.36 num of packets = 113 , size 97894 bytes
+52.41.52.12 num of packets = 4 , size 1708 bytes
+Total Data = 493 packets , size = 446170 bytes
+data=2016:12:11:19:33:18
+195.22.200.17 num of packets = 67 , size 71494 bytes
+184.51.148.8 num of packets = 41 , size 49837 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+31.13.92.10 num of packets = 5 , size 1913 bytes
+8.8.4.4 num of packets = 10 , size 1356 bytes
+31.13.88.8 num of packets = 7 , size 5638 bytes
+77.67.29.90 num of packets = 15 , size 1095 bytes
+31.13.92.36 num of packets = 64 , size 58101 bytes
+52.41.52.12 num of packets = 12 , size 3930 bytes
+Total Data = 222 packets , size = 193476 bytes
+data=2016:12:11:19:33:48
+2.18.212.19 num of packets = 14 , size 8671 bytes
+195.22.200.17 num of packets = 15 , size 12690 bytes
+184.51.148.8 num of packets = 15 , size 16729 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+31.13.92.10 num of packets = 16 , size 2103 bytes
+216.58.198.110 num of packets = 4 , size 300 bytes
+8.8.4.4 num of packets = 22 , size 3634 bytes
+31.13.88.8 num of packets = 125 , size 165960 bytes
+77.67.29.90 num of packets = 49 , size 63137 bytes
+31.13.92.36 num of packets = 58 , size 40570 bytes
+52.41.52.12 num of packets = 5 , size 1827 bytes
+Total Data = 324 packets , size = 315733 bytes
+data=2016:12:11:19:34:18
+184.51.148.35 num of packets = 22 , size 14100 bytes
+2.18.212.19 num of packets = 26 , size 31214 bytes
+195.22.200.17 num of packets = 38 , size 18137 bytes
+31.13.92.10 num of packets = 32 , size 3593 bytes
+184.51.148.8 num of packets = 16 , size 17802 bytes
+31.13.88.15 num of packets = 389 , size 553565 bytes
+31.13.88.8 num of packets = 133 , size 182377 bytes
+8.8.4.4 num of packets = 12 , size 1682 bytes
+77.67.29.90 num of packets = 8 , size 3673 bytes
+31.13.92.36 num of packets = 50 , size 47110 bytes
+52.41.52.12 num of packets = 9 , size 2214 bytes
+Total Data = 735 packets , size = 875467 bytes
+data=2016:12:11:19:34:48
+184.51.148.35 num of packets = 20 , size 1728 bytes
+52.41.52.12 num of packets = 8 , size 1310 bytes
+195.22.200.17 num of packets = 8 , size 836 bytes
+92.122.48.139 num of packets = 80 , size 43308 bytes
+31.13.92.10 num of packets = 12 , size 1146 bytes
+184.51.148.8 num of packets = 8 , size 3669 bytes
+31.13.88.8 num of packets = 27 , size 33165 bytes
+8.8.4.4 num of packets = 11 , size 1584 bytes
+77.67.29.90 num of packets = 189 , size 242889 bytes
+31.13.92.36 num of packets = 43 , size 34356 bytes
+2.18.212.19 num of packets = 3 , size 198 bytes
+Total Data = 409 packets , size = 364189 bytes
+data=2016:12:11:19:35:18
+184.51.148.35 num of packets = 12 , size 1257 bytes
+2.18.212.19 num of packets = 27 , size 22244 bytes
+195.22.200.17 num of packets = 15 , size 6743 bytes
+184.51.148.8 num of packets = 13 , size 11851 bytes
+31.13.88.15 num of packets = 817 , size 1192657 bytes
+195.22.200.9 num of packets = 24 , size 20463 bytes
+31.13.92.10 num of packets = 33 , size 3033 bytes
+77.67.29.90 num of packets = 67 , size 82952 bytes
+8.8.4.4 num of packets = 32 , size 5338 bytes
+31.13.88.8 num of packets = 147 , size 183768 bytes
+31.13.92.36 num of packets = 104 , size 96463 bytes
+52.41.52.12 num of packets = 11 , size 2346 bytes
+Total Data = 1302 packets , size = 1629115 bytes
+data=2016:12:11:19:35:48
+79.140.95.147 num of packets = 11 , size 7135 bytes
+184.51.148.35 num of packets = 12 , size 885 bytes
+2.18.212.19 num of packets = 44 , size 46279 bytes
+195.22.200.17 num of packets = 18 , size 14570 bytes
+54.239.17.113 num of packets = 22 , size 11646 bytes
+184.51.148.8 num of packets = 5 , size 2525 bytes
+31.13.88.15 num of packets = 478 , size 690908 bytes
+195.22.200.9 num of packets = 9 , size 687 bytes
+31.13.92.10 num of packets = 44 , size 5167 bytes
+52.94.232.73 num of packets = 22 , size 10928 bytes
+8.8.4.4 num of packets = 33 , size 4637 bytes
+31.13.88.8 num of packets = 248 , size 326810 bytes
+77.67.29.90 num of packets = 20 , size 14043 bytes
+31.13.92.36 num of packets = 121 , size 110043 bytes
+195.22.200.24 num of packets = 8 , size 6821 bytes
+52.41.52.12 num of packets = 9 , size 2214 bytes
+Total Data = 1104 packets , size = 1255298 bytes
+data=2016:12:11:19:36:18
+79.140.95.147 num of packets = 6 , size 437 bytes
+52.94.232.73 num of packets = 3 , size 390 bytes
+2.18.212.19 num of packets = 8 , size 2205 bytes
+195.22.200.17 num of packets = 6 , size 396 bytes
+54.239.17.113 num of packets = 3 , size 436 bytes
+184.51.148.8 num of packets = 5 , size 1886 bytes
+31.13.92.10 num of packets = 5 , size 1137 bytes
+77.67.29.90 num of packets = 14 , size 2665 bytes
+8.8.4.4 num of packets = 17 , size 2998 bytes
+31.13.88.8 num of packets = 208 , size 293930 bytes
+31.13.92.36 num of packets = 48 , size 45807 bytes
+195.22.200.24 num of packets = 3 , size 229 bytes
+52.41.52.12 num of packets = 7 , size 1988 bytes
+Total Data = 333 packets , size = 354504 bytes
+data=2016:12:11:19:36:48
+52.94.232.73 num of packets = 3 , size 390 bytes
+52.41.52.12 num of packets = 9 , size 2214 bytes
+2.18.212.19 num of packets = 14 , size 12505 bytes
+195.22.200.17 num of packets = 52 , size 64549 bytes
+31.13.92.10 num of packets = 32 , size 3595 bytes
+195.22.200.42 num of packets = 10 , size 862 bytes
+184.51.148.8 num of packets = 51 , size 69485 bytes
+31.13.88.15 num of packets = 568 , size 828631 bytes
+31.13.88.8 num of packets = 425 , size 599486 bytes
+54.239.17.113 num of packets = 3 , size 436 bytes
+8.8.4.4 num of packets = 20 , size 2872 bytes
+77.67.29.90 num of packets = 29 , size 29048 bytes
+31.13.92.36 num of packets = 117 , size 97354 bytes
+184.51.148.17 num of packets = 55 , size 48203 bytes
+195.22.200.24 num of packets = 33 , size 5925 bytes
+184.51.148.42 num of packets = 13 , size 7198 bytes
+Total Data = 1434 packets , size = 1772753 bytes
+data=2016:12:11:19:37:18
+52.94.232.73 num of packets = 4 , size 444 bytes
+2.18.212.19 num of packets = 6 , size 396 bytes
+195.22.200.17 num of packets = 6 , size 396 bytes
+184.51.148.8 num of packets = 3 , size 198 bytes
+54.239.17.113 num of packets = 4 , size 490 bytes
+52.41.52.12 num of packets = 6 , size 1922 bytes
+77.67.29.90 num of packets = 6 , size 396 bytes
+31.13.92.36 num of packets = 21 , size 11509 bytes
+184.51.148.17 num of packets = 2 , size 132 bytes
+195.22.200.24 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 10 , size 1356 bytes
+Total Data = 71 packets , size = 17437 bytes
+data=2016:12:11:19:37:48
+52.94.232.73 num of packets = 3 , size 162 bytes
+2.18.212.19 num of packets = 10 , size 703 bytes
+195.22.200.17 num of packets = 20 , size 11121 bytes
+54.239.17.113 num of packets = 3 , size 162 bytes
+184.51.148.8 num of packets = 10 , size 8370 bytes
+31.13.88.15 num of packets = 1165 , size 1701412 bytes
+31.13.92.10 num of packets = 26 , size 3691 bytes
+52.41.52.12 num of packets = 7 , size 1988 bytes
+31.13.88.8 num of packets = 56 , size 74591 bytes
+77.67.29.90 num of packets = 6 , size 396 bytes
+31.13.92.36 num of packets = 61 , size 49808 bytes
+184.51.148.17 num of packets = 7 , size 5045 bytes
+195.22.200.24 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 26 , size 4016 bytes
+Total Data = 1403 packets , size = 1861663 bytes
+data=2016:12:11:19:38:18
+52.94.232.73 num of packets = 11 , size 656 bytes
+2.18.212.19 num of packets = 7 , size 462 bytes
+195.22.200.17 num of packets = 10 , size 660 bytes
+31.13.92.10 num of packets = 4 , size 1597 bytes
+184.51.148.8 num of packets = 6 , size 396 bytes
+31.13.88.15 num of packets = 2432 , size 3507267 bytes
+54.239.17.113 num of packets = 11 , size 656 bytes
+52.41.52.12 num of packets = 12 , size 2424 bytes
+77.67.29.90 num of packets = 14 , size 924 bytes
+184.51.148.17 num of packets = 5 , size 330 bytes
+195.22.200.24 num of packets = 8 , size 559 bytes
+8.8.4.4 num of packets = 4 , size 594 bytes
+Total Data = 2524 packets , size = 3516525 bytes
+data=2016:12:11:19:38:48
+54.239.17.80 num of packets = 11 , size 5350 bytes
+2.18.212.19 num of packets = 3 , size 229 bytes
+195.22.200.17 num of packets = 8 , size 528 bytes
+54.239.17.113 num of packets = 21 , size 11318 bytes
+79.140.95.114 num of packets = 24 , size 14418 bytes
+184.51.148.8 num of packets = 64 , size 88811 bytes
+31.13.88.15 num of packets = 2142 , size 3082608 bytes
+31.13.92.10 num of packets = 31 , size 3921 bytes
+54.239.17.116 num of packets = 38 , size 21261 bytes
+8.8.4.4 num of packets = 21 , size 3126 bytes
+31.13.88.8 num of packets = 1 , size 112 bytes
+77.67.29.90 num of packets = 8 , size 590 bytes
+31.13.92.36 num of packets = 44 , size 12604 bytes
+184.51.148.17 num of packets = 5 , size 330 bytes
+195.22.200.24 num of packets = 1 , size 66 bytes
+72.21.206.141 num of packets = 22 , size 11654 bytes
+52.41.52.12 num of packets = 10 , size 1464 bytes
+Total Data = 2454 packets , size = 3258390 bytes
+data=2016:12:11:19:39:18
+195.22.200.17 num of packets = 10 , size 691 bytes
+79.140.95.114 num of packets = 11 , size 820 bytes
+184.51.148.8 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 141 , size 200543 bytes
+31.13.92.10 num of packets = 25 , size 3200 bytes
+54.239.17.116 num of packets = 5 , size 270 bytes
+52.41.52.12 num of packets = 8 , size 2136 bytes
+184.51.148.17 num of packets = 3 , size 198 bytes
+72.21.206.141 num of packets = 3 , size 162 bytes
+8.8.4.4 num of packets = 9 , size 1238 bytes
+Total Data = 218 packets , size = 209456 bytes
+data=2016:12:11:19:39:48
+195.22.200.17 num of packets = 5 , size 361 bytes
+184.51.148.8 num of packets = 4 , size 264 bytes
+31.13.88.15 num of packets = 5 , size 383 bytes
+31.13.92.10 num of packets = 3 , size 1638 bytes
+54.239.17.116 num of packets = 8 , size 494 bytes
+8.8.4.4 num of packets = 8 , size 982 bytes
+31.13.88.8 num of packets = 5 , size 1690 bytes
+31.13.92.36 num of packets = 24 , size 3378 bytes
+184.51.148.17 num of packets = 4 , size 295 bytes
+72.21.206.141 num of packets = 6 , size 355 bytes
+52.41.52.12 num of packets = 5 , size 330 bytes
+Total Data = 77 packets , size = 10170 bytes
+data=2016:12:11:19:40:18
+31.13.92.10 num of packets = 4 , size 548 bytes
+52.41.52.12 num of packets = 4 , size 295 bytes
+184.51.148.8 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 1 , size 124 bytes
+Total Data = 12 packets , size = 1165 bytes
+data=2016:12:11:19:40:48
+31.13.88.8 num of packets = 1 , size 112 bytes
+31.13.92.10 num of packets = 1 , size 230 bytes
+8.8.4.4 num of packets = 2 , size 254 bytes
+184.51.148.8 num of packets = 4 , size 295 bytes
+31.13.92.36 num of packets = 10 , size 1035 bytes
+Total Data = 18 packets , size = 1926 bytes
+data=2016:12:11:19:41:18
+31.13.92.10 num of packets = 5 , size 562 bytes
+31.13.93.3 num of packets = 82 , size 10441 bytes
+8.8.4.4 num of packets = 23 , size 3865 bytes
+79.140.94.210 num of packets = 9 , size 7195 bytes
+31.13.92.36 num of packets = 175 , size 170357 bytes
+Total Data = 294 packets , size = 192420 bytes
+data=2016:12:11:21:33:25
+195.22.200.11 num of packets = 26 , size 16084 bytes
+184.51.148.25 num of packets = 45 , size 29345 bytes
+31.13.88.15 num of packets = 430 , size 622069 bytes
+184.51.148.48 num of packets = 22 , size 14100 bytes
+31.13.88.8 num of packets = 89 , size 91303 bytes
+8.8.4.4 num of packets = 74 , size 12753 bytes
+79.140.94.219 num of packets = 11 , size 7326 bytes
+79.140.94.216 num of packets = 79 , size 33619 bytes
+31.13.92.36 num of packets = 285 , size 213055 bytes
+31.13.93.3 num of packets = 119 , size 20658 bytes
+79.140.94.210 num of packets = 6 , size 1627 bytes
+79.140.95.120 num of packets = 170 , size 232637 bytes
+Total Data = 1356 packets , size = 1294576 bytes
+data=2016:12:11:21:33:55
+184.51.148.25 num of packets = 12 , size 792 bytes
+195.22.200.11 num of packets = 6 , size 396 bytes
+31.13.88.8 num of packets = 2 , size 299 bytes
+8.8.4.4 num of packets = 18 , size 2260 bytes
+79.140.95.120 num of packets = 10 , size 766 bytes
+79.140.94.219 num of packets = 3 , size 198 bytes
+79.140.94.216 num of packets = 12 , size 792 bytes
+31.13.92.36 num of packets = 53 , size 15389 bytes
+31.13.93.3 num of packets = 7 , size 1954 bytes
+79.140.94.210 num of packets = 3 , size 198 bytes
+184.51.148.48 num of packets = 6 , size 396 bytes
+Total Data = 132 packets , size = 23440 bytes
+data=2016:12:11:21:34:25
+195.22.200.11 num of packets = 7 , size 1078 bytes
+184.51.148.25 num of packets = 12 , size 1076 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+79.140.94.216 num of packets = 15 , size 1083 bytes
+8.8.4.4 num of packets = 24 , size 3834 bytes
+79.140.94.219 num of packets = 3 , size 506 bytes
+31.13.88.8 num of packets = 6 , size 937 bytes
+31.13.92.36 num of packets = 56 , size 21078 bytes
+31.13.93.3 num of packets = 26 , size 3321 bytes
+79.140.94.210 num of packets = 4 , size 295 bytes
+184.51.148.48 num of packets = 6 , size 372 bytes
+Total Data = 160 packets , size = 33692 bytes
+data=2016:12:11:21:34:55
+195.22.200.11 num of packets = 6 , size 396 bytes
+184.51.148.25 num of packets = 9 , size 625 bytes
+79.140.94.216 num of packets = 3 , size 229 bytes
+79.140.94.219 num of packets = 3 , size 198 bytes
+31.13.88.8 num of packets = 1 , size 112 bytes
+31.13.92.36 num of packets = 1 , size 112 bytes
+Total Data = 23 packets , size = 1672 bytes
+data=2016:12:11:21:35:25
+195.22.200.11 num of packets = 6 , size 396 bytes
+184.51.148.25 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+8.8.4.4 num of packets = 11 , size 1412 bytes
+79.140.94.219 num of packets = 5 , size 361 bytes
+31.13.92.36 num of packets = 21 , size 3661 bytes
+31.13.93.3 num of packets = 10 , size 1770 bytes
+Total Data = 57 packets , size = 7910 bytes
+data=2016:12:11:21:35:56
+195.22.200.11 num of packets = 14 , size 6854 bytes
+184.51.148.25 num of packets = 19 , size 16537 bytes
+79.140.94.216 num of packets = 104 , size 66272 bytes
+184.51.148.43 num of packets = 39 , size 35965 bytes
+8.8.4.4 num of packets = 91 , size 16039 bytes
+79.140.94.218 num of packets = 16 , size 13642 bytes
+79.140.94.217 num of packets = 20 , size 15390 bytes
+31.13.88.8 num of packets = 76 , size 78903 bytes
+31.13.92.36 num of packets = 310 , size 250234 bytes
+31.13.93.3 num of packets = 26 , size 3576 bytes
+195.22.200.33 num of packets = 28 , size 14089 bytes
+79.140.94.200 num of packets = 8 , size 6821 bytes
+Total Data = 751 packets , size = 524322 bytes
+data=2016:12:11:21:36:26
+195.22.200.11 num of packets = 4 , size 1853 bytes
+184.51.148.25 num of packets = 9 , size 5172 bytes
+31.13.88.8 num of packets = 85 , size 83976 bytes
+31.13.88.15 num of packets = 426 , size 621482 bytes
+184.51.148.51 num of packets = 26 , size 14519 bytes
+184.51.148.43 num of packets = 17 , size 5190 bytes
+8.8.4.4 num of packets = 68 , size 10114 bytes
+79.140.94.218 num of packets = 6 , size 458 bytes
+79.140.94.217 num of packets = 36 , size 46197 bytes
+79.140.94.216 num of packets = 38 , size 18176 bytes
+31.13.92.36 num of packets = 220 , size 177714 bytes
+31.13.93.3 num of packets = 51 , size 5713 bytes
+195.22.200.33 num of packets = 31 , size 9213 bytes
+79.140.94.200 num of packets = 2 , size 163 bytes
+79.140.95.106 num of packets = 22 , size 9364 bytes
+Total Data = 1041 packets , size = 1009304 bytes
+data=2016:12:11:21:36:56
+195.22.200.11 num of packets = 9 , size 8197 bytes
+184.51.148.25 num of packets = 2 , size 132 bytes
+184.51.148.51 num of packets = 4 , size 295 bytes
+54.239.17.116 num of packets = 17 , size 10658 bytes
+31.13.88.15 num of packets = 428 , size 621636 bytes
+31.13.88.8 num of packets = 13 , size 5083 bytes
+54.239.17.113 num of packets = 21 , size 16625 bytes
+79.140.95.106 num of packets = 5 , size 383 bytes
+184.51.148.43 num of packets = 2 , size 132 bytes
+8.8.4.4 num of packets = 43 , size 6435 bytes
+79.140.94.217 num of packets = 3 , size 506 bytes
+79.140.94.216 num of packets = 14 , size 9574 bytes
+31.13.92.36 num of packets = 57 , size 27591 bytes
+31.13.93.3 num of packets = 23 , size 3884 bytes
+195.22.200.33 num of packets = 28 , size 31679 bytes
+184.51.148.19 num of packets = 22 , size 14100 bytes
+Total Data = 691 packets , size = 756910 bytes
+data=2016:12:11:21:37:26
+184.51.148.25 num of packets = 3 , size 198 bytes
+195.22.200.11 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 1009 , size 1450624 bytes
+54.239.17.113 num of packets = 5 , size 270 bytes
+184.51.148.43 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 2 , size 242 bytes
+79.140.94.217 num of packets = 3 , size 198 bytes
+79.140.94.216 num of packets = 15 , size 1052 bytes
+54.239.17.116 num of packets = 5 , size 270 bytes
+31.13.93.3 num of packets = 3 , size 817 bytes
+195.22.200.33 num of packets = 3 , size 198 bytes
+Total Data = 1054 packets , size = 1454265 bytes
+data=2016:12:11:21:37:56
+195.22.200.11 num of packets = 3 , size 198 bytes
+184.51.148.25 num of packets = 3 , size 198 bytes
+54.239.17.116 num of packets = 3 , size 390 bytes
+31.13.88.15 num of packets = 1009 , size 1450711 bytes
+54.239.17.113 num of packets = 3 , size 436 bytes
+184.51.148.43 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 24 , size 3843 bytes
+31.13.88.8 num of packets = 22 , size 26410 bytes
+31.13.92.36 num of packets = 36 , size 17209 bytes
+79.140.94.216 num of packets = 5 , size 361 bytes
+79.140.94.217 num of packets = 3 , size 198 bytes
+31.13.93.3 num of packets = 7 , size 1575 bytes
+195.22.200.33 num of packets = 3 , size 198 bytes
+Total Data = 1124 packets , size = 1501925 bytes
+data=2016:12:11:21:38:26
+195.22.200.11 num of packets = 4 , size 295 bytes
+184.51.148.25 num of packets = 6 , size 427 bytes
+54.239.17.116 num of packets = 3 , size 162 bytes
+31.13.88.15 num of packets = 745 , size 1069968 bytes
+54.239.17.113 num of packets = 3 , size 162 bytes
+184.51.148.43 num of packets = 6 , size 427 bytes
+8.8.4.4 num of packets = 7 , size 853 bytes
+79.140.94.217 num of packets = 3 , size 229 bytes
+31.13.93.3 num of packets = 8 , size 1539 bytes
+195.22.200.33 num of packets = 4 , size 295 bytes
+Total Data = 789 packets , size = 1074357 bytes
+data=2016:12:11:21:38:56
+54.239.17.113 num of packets = 2 , size 108 bytes
+54.239.17.116 num of packets = 2 , size 108 bytes
+8.8.4.4 num of packets = 2 , size 254 bytes
+31.13.88.8 num of packets = 1 , size 112 bytes
+31.13.92.36 num of packets = 8 , size 910 bytes
+31.13.93.3 num of packets = 6 , size 1579 bytes
+Total Data = 21 packets , size = 3071 bytes
+data=2016:12:11:21:39:26
+54.239.17.113 num of packets = 4 , size 247 bytes
+31.13.93.3 num of packets = 6 , size 881 bytes
+54.239.17.116 num of packets = 4 , size 247 bytes
+31.13.88.15 num of packets = 2 , size 178 bytes
+Total Data = 16 packets , size = 1553 bytes
+data=2016:12:11:21:39:56
+184.51.148.33 num of packets = 26 , size 14388 bytes
+184.51.148.9 num of packets = 37 , size 23944 bytes
+184.51.148.50 num of packets = 49 , size 64476 bytes
+8.8.4.4 num of packets = 32 , size 5666 bytes
+79.140.94.218 num of packets = 21 , size 13345 bytes
+31.13.88.8 num of packets = 63 , size 90267 bytes
+31.13.92.36 num of packets = 46 , size 36138 bytes
+31.13.93.3 num of packets = 10 , size 1816 bytes
+Total Data = 284 packets , size = 250040 bytes
+data=2016:12:11:21:40:26
+184.51.148.9 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+184.51.148.50 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 2 , size 260 bytes
+79.140.94.218 num of packets = 5 , size 330 bytes
+31.13.93.3 num of packets = 10 , size 1967 bytes
+Total Data = 24 packets , size = 3065 bytes
+data=2016:12:11:21:40:56
+184.51.148.25 num of packets = 18 , size 1576 bytes
+195.22.200.9 num of packets = 11 , size 7050 bytes
+184.51.148.33 num of packets = 31 , size 4876 bytes
+79.140.94.200 num of packets = 12 , size 7116 bytes
+184.51.148.9 num of packets = 6 , size 3754 bytes
+184.51.148.50 num of packets = 10 , size 5694 bytes
+79.140.94.195 num of packets = 48 , size 28488 bytes
+8.8.4.4 num of packets = 69 , size 12631 bytes
+79.140.94.218 num of packets = 47 , size 25715 bytes
+79.140.94.217 num of packets = 12 , size 7124 bytes
+31.13.88.8 num of packets = 557 , size 784666 bytes
+31.13.92.36 num of packets = 136 , size 127188 bytes
+31.13.93.3 num of packets = 6 , size 882 bytes
+195.22.200.25 num of packets = 59 , size 39240 bytes
+Total Data = 1022 packets , size = 1056000 bytes
+data=2016:12:11:21:41:26
+184.51.148.33 num of packets = 3 , size 198 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+184.51.148.50 num of packets = 78 , size 111427 bytes
+31.13.88.15 num of packets = 6 , size 495 bytes
+54.239.17.116 num of packets = 16 , size 6010 bytes
+8.8.4.4 num of packets = 22 , size 3034 bytes
+79.140.94.218 num of packets = 9 , size 594 bytes
+31.13.88.8 num of packets = 269 , size 381615 bytes
+31.13.92.36 num of packets = 51 , size 30606 bytes
+31.13.93.3 num of packets = 5 , size 768 bytes
+195.22.200.25 num of packets = 8 , size 2360 bytes
+52.94.232.33 num of packets = 19 , size 11484 bytes
+Total Data = 489 packets , size = 548789 bytes
+data=2016:12:11:21:41:56
+31.13.93.3 num of packets = 24 , size 3849 bytes
+184.51.148.33 num of packets = 3 , size 198 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+184.51.148.50 num of packets = 3 , size 198 bytes
+54.239.17.116 num of packets = 3 , size 162 bytes
+8.8.4.4 num of packets = 21 , size 3533 bytes
+79.140.94.218 num of packets = 13 , size 2853 bytes
+31.13.88.8 num of packets = 72 , size 77665 bytes
+31.13.92.36 num of packets = 50 , size 45090 bytes
+52.94.232.33 num of packets = 3 , size 162 bytes
+195.22.200.25 num of packets = 64 , size 11220 bytes
+Total Data = 259 packets , size = 145128 bytes
+data=2016:12:11:21:42:26
+184.51.148.33 num of packets = 3 , size 198 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+184.51.148.50 num of packets = 3 , size 198 bytes
+54.239.17.116 num of packets = 6 , size 355 bytes
+8.8.4.4 num of packets = 5 , size 833 bytes
+79.140.94.218 num of packets = 6 , size 396 bytes
+31.13.92.36 num of packets = 10 , size 1895 bytes
+31.13.93.3 num of packets = 4 , size 1183 bytes
+195.22.200.25 num of packets = 12 , size 2175 bytes
+52.94.232.33 num of packets = 6 , size 355 bytes
+Total Data = 58 packets , size = 7786 bytes
+data=2016:12:11:21:42:56
+79.140.95.169 num of packets = 34 , size 39508 bytes
+184.51.148.33 num of packets = 4 , size 295 bytes
+184.51.148.19 num of packets = 8 , size 714 bytes
+184.51.148.9 num of packets = 4 , size 295 bytes
+184.51.148.50 num of packets = 18 , size 20205 bytes
+31.13.88.15 num of packets = 606 , size 878909 bytes
+8.8.4.4 num of packets = 41 , size 7187 bytes
+79.140.94.218 num of packets = 8 , size 590 bytes
+31.13.88.8 num of packets = 55 , size 63629 bytes
+31.13.92.36 num of packets = 62 , size 56098 bytes
+31.13.93.3 num of packets = 15 , size 1720 bytes
+195.22.200.25 num of packets = 14 , size 1540 bytes
+184.51.148.42 num of packets = 57 , size 40985 bytes
+Total Data = 926 packets , size = 1111675 bytes
+data=2016:12:11:21:43:26
+184.51.148.50 num of packets = 3 , size 198 bytes
+79.140.95.169 num of packets = 5 , size 383 bytes
+31.13.93.3 num of packets = 9 , size 2138 bytes
+195.22.200.25 num of packets = 17 , size 1215 bytes
+184.51.148.42 num of packets = 6 , size 396 bytes
+Total Data = 40 packets , size = 4330 bytes
+data=2016:12:11:21:43:56
+31.13.88.15 num of packets = 1 , size 112 bytes
+184.51.148.50 num of packets = 15 , size 17647 bytes
+8.8.4.4 num of packets = 24 , size 3782 bytes
+79.140.94.217 num of packets = 9 , size 1065 bytes
+31.13.88.8 num of packets = 21 , size 25033 bytes
+31.13.92.36 num of packets = 48 , size 36239 bytes
+195.22.200.35 num of packets = 33 , size 21150 bytes
+31.13.93.3 num of packets = 15 , size 2258 bytes
+195.22.200.25 num of packets = 22 , size 16870 bytes
+184.51.148.42 num of packets = 6 , size 705 bytes
+Total Data = 194 packets , size = 124861 bytes
+data=2016:12:11:21:44:26
+79.140.95.169 num of packets = 9 , size 1063 bytes
+52.94.232.73 num of packets = 20 , size 10820 bytes
+52.94.232.33 num of packets = 10 , size 5906 bytes
+184.51.148.50 num of packets = 3 , size 198 bytes
+184.51.148.42 num of packets = 6 , size 396 bytes
+31.13.92.36 num of packets = 93 , size 109049 bytes
+31.13.88.8 num of packets = 2 , size 1233 bytes
+79.140.94.217 num of packets = 3 , size 198 bytes
+31.13.93.3 num of packets = 10 , size 2491 bytes
+195.22.200.25 num of packets = 6 , size 396 bytes
+8.8.4.4 num of packets = 19 , size 2883 bytes
+Total Data = 181 packets , size = 134633 bytes
+data=2016:12:11:21:44:56
+79.140.95.169 num of packets = 5 , size 383 bytes
+52.94.232.73 num of packets = 3 , size 162 bytes
+52.94.232.33 num of packets = 3 , size 162 bytes
+184.51.148.50 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+184.51.148.42 num of packets = 7 , size 493 bytes
+31.13.92.36 num of packets = 3 , size 537 bytes
+79.140.94.217 num of packets = 4 , size 295 bytes
+31.13.93.3 num of packets = 7 , size 1584 bytes
+195.22.200.25 num of packets = 6 , size 396 bytes
+8.8.4.4 num of packets = 3 , size 381 bytes
+Total Data = 45 packets , size = 4703 bytes
+data=2016:12:11:21:45:26
+52.94.232.73 num of packets = 5 , size 301 bytes
+52.94.232.33 num of packets = 5 , size 301 bytes
+184.51.148.50 num of packets = 3 , size 198 bytes
+184.51.148.42 num of packets = 3 , size 198 bytes
+79.140.94.194 num of packets = 11 , size 8583 bytes
+31.13.88.8 num of packets = 32 , size 38391 bytes
+31.13.92.36 num of packets = 37 , size 31777 bytes
+31.13.93.3 num of packets = 37 , size 4126 bytes
+195.22.200.25 num of packets = 6 , size 396 bytes
+79.140.94.193 num of packets = 33 , size 39258 bytes
+8.8.4.4 num of packets = 27 , size 4577 bytes
+Total Data = 199 packets , size = 128106 bytes
+data=2016:12:11:21:45:56
+216.58.198.110 num of packets = 11 , size 1442 bytes
+195.22.200.41 num of packets = 11 , size 7050 bytes
+79.140.94.208 num of packets = 9 , size 6887 bytes
+184.51.148.9 num of packets = 24 , size 5654 bytes
+195.22.200.42 num of packets = 25 , size 17773 bytes
+31.13.88.15 num of packets = 6 , size 495 bytes
+184.51.148.50 num of packets = 3 , size 229 bytes
+184.51.148.58 num of packets = 18 , size 7822 bytes
+195.22.200.27 num of packets = 22 , size 15674 bytes
+184.51.148.42 num of packets = 3 , size 229 bytes
+184.51.148.56 num of packets = 28 , size 20838 bytes
+31.13.92.36 num of packets = 111 , size 109292 bytes
+31.13.88.8 num of packets = 130 , size 149982 bytes
+79.140.94.194 num of packets = 5 , size 1994 bytes
+31.13.93.3 num of packets = 12 , size 1873 bytes
+195.22.200.25 num of packets = 6 , size 458 bytes
+79.140.94.193 num of packets = 47 , size 21813 bytes
+8.8.4.4 num of packets = 47 , size 8379 bytes
+Total Data = 518 packets , size = 377884 bytes
+data=2016:12:11:21:46:26
+195.22.200.42 num of packets = 2 , size 132 bytes
+184.51.148.9 num of packets = 8 , size 559 bytes
+31.13.88.8 num of packets = 58 , size 78604 bytes
+195.22.200.27 num of packets = 3 , size 198 bytes
+8.8.4.4 num of packets = 12 , size 1732 bytes
+184.51.148.56 num of packets = 2 , size 132 bytes
+79.140.94.194 num of packets = 3 , size 198 bytes
+184.51.148.58 num of packets = 9 , size 656 bytes
+31.13.92.36 num of packets = 57 , size 11574 bytes
+31.13.93.3 num of packets = 10 , size 2374 bytes
+79.140.94.193 num of packets = 23 , size 20777 bytes
+79.140.94.208 num of packets = 3 , size 229 bytes
+Total Data = 190 packets , size = 117165 bytes
+data=2016:12:11:21:46:56
+52.94.232.73 num of packets = 27 , size 11522 bytes
+216.58.198.110 num of packets = 2 , size 178 bytes
+79.140.94.208 num of packets = 16 , size 1428 bytes
+195.22.200.42 num of packets = 4 , size 880 bytes
+184.51.148.9 num of packets = 7 , size 771 bytes
+8.8.4.4 num of packets = 44 , size 6658 bytes
+184.51.148.56 num of packets = 3 , size 198 bytes
+79.140.94.194 num of packets = 7 , size 4408 bytes
+31.13.88.8 num of packets = 84 , size 105495 bytes
+31.13.92.36 num of packets = 75 , size 64127 bytes
+31.13.93.3 num of packets = 22 , size 3017 bytes
+72.21.206.141 num of packets = 10 , size 5906 bytes
+79.140.94.193 num of packets = 60 , size 74240 bytes
+195.22.200.27 num of packets = 2 , size 132 bytes
+Total Data = 363 packets , size = 278960 bytes
+data=2016:12:11:21:47:26
+52.94.232.73 num of packets = 11 , size 594 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+184.51.148.9 num of packets = 5 , size 330 bytes
+8.8.4.4 num of packets = 2 , size 254 bytes
+184.51.148.56 num of packets = 3 , size 198 bytes
+31.13.92.36 num of packets = 8 , size 864 bytes
+79.140.94.194 num of packets = 3 , size 198 bytes
+31.13.93.3 num of packets = 3 , size 452 bytes
+72.21.206.141 num of packets = 2 , size 108 bytes
+79.140.94.193 num of packets = 6 , size 396 bytes
+195.22.200.27 num of packets = 3 , size 198 bytes
+Total Data = 49 packets , size = 3790 bytes
+data=2016:12:11:21:47:56
+52.94.232.73 num of packets = 5 , size 301 bytes
+79.140.95.155 num of packets = 31 , size 26496 bytes
+216.58.198.110 num of packets = 1 , size 112 bytes
+79.140.94.219 num of packets = 13 , size 10554 bytes
+195.22.200.42 num of packets = 21 , size 22927 bytes
+184.51.148.58 num of packets = 3 , size 353 bytes
+184.51.148.9 num of packets = 23 , size 20752 bytes
+31.13.88.15 num of packets = 340 , size 484868 bytes
+184.51.148.35 num of packets = 2 , size 148 bytes
+8.8.4.4 num of packets = 45 , size 7602 bytes
+184.51.148.56 num of packets = 6 , size 427 bytes
+79.140.94.194 num of packets = 5 , size 361 bytes
+31.13.88.8 num of packets = 229 , size 297623 bytes
+31.13.92.36 num of packets = 79 , size 80725 bytes
+31.13.93.3 num of packets = 34 , size 4852 bytes
+72.21.206.141 num of packets = 6 , size 355 bytes
+79.140.94.193 num of packets = 23 , size 18668 bytes
+195.22.200.27 num of packets = 6 , size 3657 bytes
+Total Data = 872 packets , size = 980781 bytes
+data=2016:12:11:21:48:26
+52.94.232.73 num of packets = 1 , size 54 bytes
+79.140.95.155 num of packets = 10 , size 766 bytes
+31.13.93.3 num of packets = 24 , size 3234 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 136 , size 198416 bytes
+184.51.148.58 num of packets = 5 , size 361 bytes
+184.51.148.35 num of packets = 42 , size 28607 bytes
+8.8.4.4 num of packets = 5 , size 661 bytes
+79.140.94.219 num of packets = 2 , size 132 bytes
+31.13.88.8 num of packets = 4 , size 552 bytes
+31.13.92.36 num of packets = 19 , size 5519 bytes
+184.51.148.9 num of packets = 3 , size 507 bytes
+79.140.94.193 num of packets = 3 , size 506 bytes
+195.22.200.27 num of packets = 3 , size 198 bytes
+Total Data = 260 packets , size = 239711 bytes
+data=2016:12:11:21:48:56
+184.51.148.35 num of packets = 6 , size 396 bytes
+79.140.95.155 num of packets = 9 , size 1062 bytes
+216.58.198.110 num of packets = 4 , size 300 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+52.94.232.73 num of packets = 12 , size 5632 bytes
+54.239.17.116 num of packets = 10 , size 5296 bytes
+8.8.4.4 num of packets = 18 , size 2660 bytes
+79.140.94.219 num of packets = 6 , size 1961 bytes
+31.13.88.8 num of packets = 2 , size 1452 bytes
+31.13.92.36 num of packets = 61 , size 24160 bytes
+31.13.93.3 num of packets = 13 , size 3968 bytes
+72.21.206.141 num of packets = 12 , size 6014 bytes
+79.140.94.193 num of packets = 3 , size 198 bytes
+195.22.200.27 num of packets = 3 , size 198 bytes
+Total Data = 166 packets , size = 53805 bytes
+data=2016:12:11:21:49:26
+195.22.200.10 num of packets = 11 , size 7050 bytes
+184.51.148.35 num of packets = 22 , size 22438 bytes
+79.140.95.155 num of packets = 29 , size 24359 bytes
+195.22.200.41 num of packets = 17 , size 1506 bytes
+79.140.94.208 num of packets = 7 , size 2297 bytes
+195.22.200.42 num of packets = 27 , size 33972 bytes
+184.51.148.9 num of packets = 5 , size 2084 bytes
+31.13.88.15 num of packets = 214 , size 312110 bytes
+52.94.232.73 num of packets = 3 , size 162 bytes
+79.140.94.209 num of packets = 11 , size 7050 bytes
+8.8.4.4 num of packets = 33 , size 6007 bytes
+79.140.94.218 num of packets = 8 , size 714 bytes
+79.140.94.219 num of packets = 5 , size 1856 bytes
+31.13.88.8 num of packets = 58 , size 74657 bytes
+31.13.92.36 num of packets = 44 , size 38111 bytes
+31.13.93.3 num of packets = 36 , size 4990 bytes
+72.21.206.141 num of packets = 3 , size 162 bytes
+79.140.94.193 num of packets = 4 , size 295 bytes
+195.22.200.27 num of packets = 5 , size 2340 bytes
+Total Data = 542 packets , size = 542160 bytes
+data=2016:12:11:21:49:56
+184.51.148.35 num of packets = 11 , size 800 bytes
+79.140.95.155 num of packets = 4 , size 329 bytes
+195.22.200.42 num of packets = 2 , size 132 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+195.22.200.27 num of packets = 2 , size 132 bytes
+52.94.232.73 num of packets = 5 , size 301 bytes
+8.8.4.4 num of packets = 11 , size 1421 bytes
+79.140.94.219 num of packets = 3 , size 198 bytes
+31.13.92.36 num of packets = 8 , size 2256 bytes
+31.13.93.3 num of packets = 28 , size 3838 bytes
+72.21.206.141 num of packets = 5 , size 301 bytes
+79.140.94.208 num of packets = 2 , size 132 bytes
+Total Data = 84 packets , size = 10038 bytes
+data=2016:12:11:21:50:26
+184.51.148.35 num of packets = 17 , size 15094 bytes
+79.140.94.209 num of packets = 136 , size 97369 bytes
+54.239.17.116 num of packets = 9 , size 5470 bytes
+195.22.200.42 num of packets = 4 , size 264 bytes
+184.51.148.9 num of packets = 8 , size 1170 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+54.239.17.80 num of packets = 8 , size 5188 bytes
+8.8.4.4 num of packets = 41 , size 5925 bytes
+79.140.94.208 num of packets = 36 , size 44542 bytes
+79.140.94.219 num of packets = 43 , size 54352 bytes
+31.13.88.8 num of packets = 270 , size 363919 bytes
+31.13.92.36 num of packets = 140 , size 118172 bytes
+31.13.93.3 num of packets = 22 , size 3027 bytes
+72.21.206.141 num of packets = 6 , size 760 bytes
+79.140.94.203 num of packets = 13 , size 7194 bytes
+195.22.200.27 num of packets = 4 , size 264 bytes
+Total Data = 758 packets , size = 722822 bytes
+data=2016:12:11:21:50:56
+54.239.17.80 num of packets = 2 , size 108 bytes
+79.140.94.209 num of packets = 11 , size 726 bytes
+79.140.94.208 num of packets = 3 , size 198 bytes
+195.22.200.42 num of packets = 8 , size 8850 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+184.51.148.35 num of packets = 9 , size 8284 bytes
+54.239.17.116 num of packets = 4 , size 216 bytes
+8.8.4.4 num of packets = 15 , size 2466 bytes
+79.140.94.219 num of packets = 14 , size 14587 bytes
+31.13.88.8 num of packets = 16 , size 15416 bytes
+31.13.92.36 num of packets = 43 , size 26539 bytes
+31.13.93.3 num of packets = 21 , size 2033 bytes
+72.21.206.141 num of packets = 4 , size 216 bytes
+195.22.200.27 num of packets = 3 , size 198 bytes
+Total Data = 156 packets , size = 80035 bytes
+data=2016:12:11:21:51:26
+184.51.148.35 num of packets = 5 , size 330 bytes
+195.22.200.42 num of packets = 5 , size 330 bytes
+8.8.4.4 num of packets = 6 , size 768 bytes
+184.51.148.9 num of packets = 4 , size 264 bytes
+31.13.88.15 num of packets = 1 , size 112 bytes
+79.140.94.209 num of packets = 23 , size 1704 bytes
+79.140.94.208 num of packets = 8 , size 602 bytes
+79.140.94.219 num of packets = 5 , size 330 bytes
+54.239.17.116 num of packets = 4 , size 216 bytes
+31.13.93.3 num of packets = 10 , size 1217 bytes
+72.21.206.141 num of packets = 4 , size 216 bytes
+31.13.92.36 num of packets = 8 , size 1441 bytes
+195.22.200.27 num of packets = 4 , size 326 bytes
+Total Data = 87 packets , size = 7856 bytes
+data=2016:12:11:21:51:56
+184.51.148.35 num of packets = 13 , size 8641 bytes
+79.140.94.208 num of packets = 31 , size 21131 bytes
+195.22.200.42 num of packets = 14 , size 8708 bytes
+79.140.94.224 num of packets = 16 , size 7447 bytes
+184.51.148.9 num of packets = 6 , size 2096 bytes
+79.140.94.216 num of packets = 10 , size 858 bytes
+54.239.17.80 num of packets = 11 , size 5806 bytes
+54.239.17.116 num of packets = 14 , size 5543 bytes
+8.8.4.4 num of packets = 58 , size 10631 bytes
+79.140.94.218 num of packets = 8 , size 714 bytes
+79.140.94.219 num of packets = 4 , size 295 bytes
+31.13.88.8 num of packets = 442 , size 606988 bytes
+31.13.92.36 num of packets = 154 , size 140381 bytes
+31.13.93.3 num of packets = 7 , size 1512 bytes
+72.21.206.141 num of packets = 12 , size 6045 bytes
+79.140.94.203 num of packets = 47 , size 43102 bytes
+79.140.95.106 num of packets = 28 , size 10716 bytes
+Total Data = 875 packets , size = 880614 bytes
+data=2016:12:11:21:52:26
+54.239.17.80 num of packets = 5 , size 270 bytes
+195.22.200.33 num of packets = 10 , size 862 bytes
+195.22.200.42 num of packets = 11 , size 5444 bytes
+184.51.148.9 num of packets = 4 , size 264 bytes
+31.13.88.15 num of packets = 13 , size 991 bytes
+79.140.95.106 num of packets = 14 , size 1052 bytes
+184.51.148.35 num of packets = 10 , size 5416 bytes
+195.22.200.26 num of packets = 27 , size 16071 bytes
+8.8.4.4 num of packets = 19 , size 3259 bytes
+31.13.88.8 num of packets = 1801 , size 2617066 bytes
+31.13.92.36 num of packets = 47 , size 48193 bytes
+31.13.93.3 num of packets = 2 , size 1566 bytes
+195.22.200.24 num of packets = 13 , size 7198 bytes
+72.21.206.141 num of packets = 6 , size 324 bytes
+79.140.94.203 num of packets = 14 , size 9952 bytes
+79.140.94.208 num of packets = 4 , size 264 bytes
+Total Data = 2000 packets , size = 2718192 bytes
+data=2016:12:11:21:52:56
+184.51.148.35 num of packets = 3 , size 198 bytes
+216.58.201.40 num of packets = 28 , size 11014 bytes
+74.125.206.155 num of packets = 13 , size 5375 bytes
+216.58.198.110 num of packets = 5 , size 1092 bytes
+23.50.203.27 num of packets = 6 , size 2164 bytes
+216.58.204.74 num of packets = 60 , size 65006 bytes
+216.58.198.106 num of packets = 26 , size 10631 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+217.16.180.177 num of packets = 61 , size 72716 bytes
+107.22.252.241 num of packets = 16 , size 9322 bytes
+54.239.17.80 num of packets = 7 , size 409 bytes
+195.22.200.26 num of packets = 2 , size 132 bytes
+8.8.4.4 num of packets = 38 , size 5694 bytes
+188.226.225.189 num of packets = 582 , size 721231 bytes
+31.13.92.36 num of packets = 18 , size 4179 bytes
+31.13.93.3 num of packets = 6 , size 910 bytes
+31.13.92.14 num of packets = 70 , size 72443 bytes
+72.21.206.141 num of packets = 6 , size 355 bytes
+79.140.94.203 num of packets = 6 , size 396 bytes
+79.140.94.208 num of packets = 5 , size 361 bytes
+Total Data = 964 packets , size = 984024 bytes
+data=2016:12:11:21:53:26
+184.51.148.35 num of packets = 4 , size 572 bytes
+216.58.201.40 num of packets = 9 , size 943 bytes
+216.58.198.110 num of packets = 3 , size 198 bytes
+31.13.92.14 num of packets = 4 , size 500 bytes
+79.140.94.203 num of packets = 11 , size 788 bytes
+195.22.200.42 num of packets = 3 , size 198 bytes
+184.51.148.9 num of packets = 3 , size 198 bytes
+107.22.252.241 num of packets = 41 , size 19722 bytes
+8.8.4.4 num of packets = 19 , size 2953 bytes
+188.226.225.189 num of packets = 413 , size 491519 bytes
+31.13.88.8 num of packets = 1 , size 112 bytes
+31.13.92.36 num of packets = 69 , size 60120 bytes
+31.13.93.3 num of packets = 1 , size 943 bytes
+23.50.203.27 num of packets = 5 , size 330 bytes
+217.16.180.177 num of packets = 15 , size 6688 bytes
+195.22.200.26 num of packets = 3 , size 198 bytes
+31.13.93.7 num of packets = 21 , size 19143 bytes
+Total Data = 625 packets , size = 605125 bytes
+data=2016:12:11:21:53:56
+184.51.148.35 num of packets = 3 , size 198 bytes
+216.58.201.40 num of packets = 2 , size 178 bytes
+216.58.198.110 num of packets = 3 , size 198 bytes
+74.125.206.155 num of packets = 2 , size 178 bytes
+216.58.204.74 num of packets = 4 , size 356 bytes
+195.22.200.42 num of packets = 5 , size 361 bytes
+184.51.148.9 num of packets = 4 , size 295 bytes
+216.58.198.106 num of packets = 4 , size 356 bytes
+8.8.4.4 num of packets = 4 , size 514 bytes
+188.226.225.189 num of packets = 4 , size 264 bytes
+31.13.92.36 num of packets = 4 , size 1009 bytes
+31.13.93.3 num of packets = 11 , size 1866 bytes
+217.16.180.177 num of packets = 10 , size 660 bytes
+195.22.200.26 num of packets = 4 , size 295 bytes
+Total Data = 64 packets , size = 6728 bytes
+data=2016:12:11:21:54:26
+79.140.95.169 num of packets = 8 , size 783 bytes
+195.22.200.10 num of packets = 59 , size 31793 bytes
+31.13.93.3 num of packets = 11 , size 4545 bytes
+216.58.201.40 num of packets = 1 , size 54 bytes
+2.18.212.19 num of packets = 8 , size 6821 bytes
+8.8.4.4 num of packets = 40 , size 6322 bytes
+31.13.92.14 num of packets = 1 , size 54 bytes
+184.51.148.56 num of packets = 14 , size 7789 bytes
+31.13.88.8 num of packets = 45 , size 48688 bytes
+31.13.92.36 num of packets = 243 , size 228473 bytes
+79.140.94.202 num of packets = 22 , size 20252 bytes
+217.16.180.177 num of packets = 2 , size 185 bytes
+31.13.93.7 num of packets = 1 , size 54 bytes
+Total Data = 455 packets , size = 355813 bytes
+data=2016:12:11:22:56:41
+79.140.95.169 num of packets = 5 , size 383 bytes
+195.22.200.10 num of packets = 39 , size 2760 bytes
+216.58.198.106 num of packets = 2 , size 108 bytes
+216.58.201.40 num of packets = 1 , size 54 bytes
+2.18.212.19 num of packets = 4 , size 295 bytes
+216.58.204.74 num of packets = 2 , size 108 bytes
+74.125.206.155 num of packets = 1 , size 54 bytes
+8.8.4.4 num of packets = 19 , size 2644 bytes
+184.51.148.56 num of packets = 8 , size 559 bytes
+31.13.88.8 num of packets = 39 , size 39985 bytes
+31.13.92.36 num of packets = 97 , size 37851 bytes
+31.13.93.3 num of packets = 41 , size 6515 bytes
+216.58.212.142 num of packets = 13 , size 5795 bytes
+79.140.94.202 num of packets = 10 , size 2680 bytes
+Total Data = 281 packets , size = 99791 bytes
+data=2016:12:11:22:57:11
+195.22.200.10 num of packets = 9 , size 594 bytes
+8.8.4.4 num of packets = 8 , size 1016 bytes
+184.51.148.56 num of packets = 3 , size 198 bytes
+31.13.92.36 num of packets = 46 , size 12313 bytes
+31.13.93.3 num of packets = 16 , size 2271 bytes
+79.140.94.202 num of packets = 2 , size 132 bytes
+Total Data = 84 packets , size = 16524 bytes
+data=2016:12:11:22:57:41
+195.22.200.10 num of packets = 9 , size 594 bytes
+8.8.4.4 num of packets = 4 , size 508 bytes
+184.51.148.56 num of packets = 3 , size 198 bytes
+31.13.88.8 num of packets = 1 , size 112 bytes
+31.13.92.36 num of packets = 8 , size 1619 bytes
+31.13.93.3 num of packets = 8 , size 2281 bytes
+216.58.212.142 num of packets = 1 , size 112 bytes
+79.140.94.202 num of packets = 6 , size 427 bytes
+Total Data = 40 packets , size = 5851 bytes
+data=2016:12:11:22:58:11
+195.22.200.10 num of packets = 15 , size 1083 bytes
+31.13.93.3 num of packets = 15 , size 2642 bytes
+8.8.4.4 num of packets = 2 , size 260 bytes
+184.51.148.56 num of packets = 5 , size 361 bytes
+31.13.92.36 num of packets = 11 , size 2027 bytes
+Total Data = 48 packets , size = 6373 bytes
+data=2016:12:11:22:58:41
+77.67.29.24 num of packets = 46 , size 41584 bytes
+79.140.95.144 num of packets = 15 , size 7825 bytes
+79.140.80.99 num of packets = 90 , size 66196 bytes
+8.8.4.4 num of packets = 29 , size 4950 bytes
+2.18.212.59 num of packets = 39 , size 27686 bytes
+31.13.88.8 num of packets = 135 , size 169897 bytes
+31.13.92.36 num of packets = 88 , size 84356 bytes
+184.51.148.16 num of packets = 97 , size 81395 bytes
+31.13.93.3 num of packets = 25 , size 3105 bytes
+216.58.212.142 num of packets = 1 , size 112 bytes
+Total Data = 565 packets , size = 487106 bytes
+data=2016:12:11:22:59:11
+77.67.29.24 num of packets = 3 , size 198 bytes
+79.140.95.144 num of packets = 5 , size 383 bytes
+79.140.80.99 num of packets = 9 , size 594 bytes
+8.8.4.4 num of packets = 8 , size 1138 bytes
+31.13.92.36 num of packets = 15 , size 1997 bytes
+2.18.212.59 num of packets = 3 , size 198 bytes
+184.51.148.16 num of packets = 12 , size 792 bytes
+31.13.93.3 num of packets = 14 , size 2929 bytes
+Total Data = 69 packets , size = 8229 bytes
+data=2016:12:11:22:59:41
+77.67.29.24 num of packets = 3 , size 198 bytes
+79.140.80.99 num of packets = 15 , size 1083 bytes
+192.99.200.113 num of packets = 4 , size 1541 bytes
+90.147.160.69 num of packets = 3375 , size 5011909 bytes
+8.8.4.4 num of packets = 6 , size 782 bytes
+31.13.88.8 num of packets = 6 , size 534 bytes
+2.18.212.59 num of packets = 3 , size 198 bytes
+184.51.148.16 num of packets = 16 , size 1056 bytes
+31.13.93.3 num of packets = 15 , size 1595 bytes
+216.58.212.142 num of packets = 13 , size 1014 bytes
+Total Data = 3456 packets , size = 5019910 bytes
+data=2016:12:11:23:0:11
+77.67.29.24 num of packets = 5 , size 330 bytes
+90.147.160.69 num of packets = 4423 , size 6572578 bytes
+8.8.4.4 num of packets = 6 , size 856 bytes
+31.13.92.36 num of packets = 6 , size 1206 bytes
+2.18.212.59 num of packets = 6 , size 396 bytes
+184.51.148.16 num of packets = 20 , size 1320 bytes
+31.13.93.3 num of packets = 8 , size 2853 bytes
+Total Data = 4474 packets , size = 6579539 bytes
+data=2016:12:11:23:0:41
+77.67.29.24 num of packets = 9 , size 680 bytes
+90.147.160.69 num of packets = 4496 , size 6679654 bytes
+31.13.88.8 num of packets = 3 , size 244 bytes
+2.18.212.59 num of packets = 9 , size 680 bytes
+184.51.148.16 num of packets = 36 , size 2777 bytes
+31.13.93.3 num of packets = 22 , size 3699 bytes
+Total Data = 4575 packets , size = 6687734 bytes
+data=2016:12:11:23:1:11
+31.13.92.36 num of packets = 12 , size 2415 bytes
+31.13.93.3 num of packets = 2 , size 234 bytes
+8.8.4.4 num of packets = 2 , size 254 bytes
+90.147.160.69 num of packets = 4523 , size 6721178 bytes
+Total Data = 4539 packets , size = 6724081 bytes
+data=2016:12:11:23:1:41
+31.13.93.3 num of packets = 5 , size 1357 bytes
+8.8.4.4 num of packets = 2 , size 260 bytes
+90.147.160.69 num of packets = 2651 , size 3939386 bytes
+Total Data = 2658 packets , size = 3941003 bytes
+data=2016:12:11:23:2:11
+31.13.88.8 num of packets = 7 , size 653 bytes
+31.13.92.36 num of packets = 3 , size 535 bytes
+31.13.93.3 num of packets = 5 , size 808 bytes
+8.8.4.4 num of packets = 2 , size 254 bytes
+90.147.160.69 num of packets = 1441 , size 2139638 bytes
+Total Data = 1458 packets , size = 2141888 bytes
+data=2016:12:11:23:2:41
+192.99.200.113 num of packets = 23 , size 15888 bytes
+8.8.4.4 num of packets = 6 , size 782 bytes
+90.147.160.69 num of packets = 142 , size 208180 bytes
+Total Data = 171 packets , size = 224850 bytes
+data=2016:12:11:23:3:12
+192.99.200.113 num of packets = 646 , size 457083 bytes
+31.13.93.3 num of packets = 6 , size 1433 bytes
+8.8.4.4 num of packets = 4 , size 514 bytes
+90.147.160.69 num of packets = 368 , size 544029 bytes
+31.13.92.36 num of packets = 4 , size 648 bytes
+Total Data = 1028 packets , size = 1003707 bytes
+data=2016:12:11:23:3:42
+192.99.200.113 num of packets = 458 , size 310946 bytes
+31.13.93.3 num of packets = 3 , size 1778 bytes
+8.8.4.4 num of packets = 3 , size 501 bytes
+31.13.92.36 num of packets = 6 , size 1205 bytes
+Total Data = 470 packets , size = 314430 bytes
+data=2016:12:11:23:4:12
+31.13.92.36 num of packets = 5 , size 686 bytes
+79.140.80.96 num of packets = 13 , size 8824 bytes
+31.13.93.3 num of packets = 9 , size 1454 bytes
+8.8.4.4 num of packets = 6 , size 1139 bytes
+90.147.160.69 num of packets = 1885 , size 2793267 bytes
+Total Data = 1918 packets , size = 2805370 bytes
+data=2016:12:11:23:4:42
+79.140.80.96 num of packets = 2 , size 132 bytes
+8.8.4.4 num of packets = 2 , size 254 bytes
+90.147.160.69 num of packets = 3675 , size 5456179 bytes
+Total Data = 3679 packets , size = 5456565 bytes
+data=2016:12:11:23:5:12
+79.140.80.96 num of packets = 10 , size 784 bytes
+90.147.160.69 num of packets = 3906 , size 5801730 bytes
+79.140.94.209 num of packets = 18 , size 10903 bytes
+8.8.4.4 num of packets = 22 , size 3755 bytes
+31.13.88.8 num of packets = 15 , size 1552 bytes
+31.13.92.36 num of packets = 35 , size 9937 bytes
+31.13.93.3 num of packets = 12 , size 2702 bytes
+184.51.148.66 num of packets = 25 , size 14322 bytes
+Total Data = 4043 packets , size = 5845685 bytes
+data=2016:12:11:23:5:42
+31.13.92.36 num of packets = 33 , size 6238 bytes
+31.13.93.3 num of packets = 14 , size 2460 bytes
+8.8.4.4 num of packets = 4 , size 508 bytes
+90.147.160.69 num of packets = 4467 , size 6636967 bytes
+Total Data = 4518 packets , size = 6646173 bytes
+data=2016:12:11:23:6:12
+31.13.88.8 num of packets = 5 , size 468 bytes
+31.13.92.36 num of packets = 2 , size 689 bytes
+31.13.93.3 num of packets = 2 , size 315 bytes
+8.8.4.4 num of packets = 2 , size 254 bytes
+90.147.160.69 num of packets = 3839 , size 5704283 bytes
+Total Data = 3850 packets , size = 5706009 bytes
+data=2016:12:11:23:6:42
+31.13.92.36 num of packets = 6 , size 1614 bytes
+79.140.80.107 num of packets = 16 , size 7474 bytes
+31.13.93.3 num of packets = 9 , size 1351 bytes
+8.8.4.4 num of packets = 6 , size 972 bytes
+90.147.160.69 num of packets = 3765 , size 5592807 bytes
+Total Data = 3802 packets , size = 5604218 bytes
+data=2016:12:11:23:7:12
+90.147.160.69 num of packets = 3381 , size 5014645 bytes
+8.8.4.4 num of packets = 7 , size 1311 bytes
+31.13.88.8 num of packets = 2 , size 224 bytes
+31.13.93.3 num of packets = 14 , size 3845 bytes
+79.140.94.210 num of packets = 15 , size 13334 bytes
+31.13.93.7 num of packets = 17 , size 8239 bytes
+Total Data = 3436 packets , size = 5041598 bytes
+data=2016:12:11:23:7:42
